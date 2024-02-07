@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\bin\Debug\net7.0\FileWriteDemo.exe
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\bin\Debug\net7.0\FileWriteDemo.deps.json
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\bin\Debug\net7.0\FileWriteDemo.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\bin\Debug\net7.0\FileWriteDemo.dll
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\bin\Debug\net7.0\FileWriteDemo.pdb
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\obj\Debug\net7.0\FileWriteDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\obj\Debug\net7.0\FileWriteDemo.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\obj\Debug\net7.0\FileWriteDemo.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\obj\Debug\net7.0\FileWriteDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\obj\Debug\net7.0\FileWriteDemo.dll
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\obj\Debug\net7.0\refint\FileWriteDemo.dll
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\obj\Debug\net7.0\FileWriteDemo.pdb
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\obj\Debug\net7.0\FileWriteDemo.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\FileWriteDemo\obj\Debug\net7.0\ref\FileWriteDemo.dll
