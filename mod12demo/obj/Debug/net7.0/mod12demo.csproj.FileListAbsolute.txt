@@ -1,0 +1,28 @@
+/Users/vinnychu/Desktop/IT2040/mod12demo/bin/Debug/net7.0/mod12demo
+/Users/vinnychu/Desktop/IT2040/mod12demo/bin/Debug/net7.0/mod12demo.deps.json
+/Users/vinnychu/Desktop/IT2040/mod12demo/bin/Debug/net7.0/mod12demo.runtimeconfig.json
+/Users/vinnychu/Desktop/IT2040/mod12demo/bin/Debug/net7.0/mod12demo.dll
+/Users/vinnychu/Desktop/IT2040/mod12demo/bin/Debug/net7.0/mod12demo.pdb
+/Users/vinnychu/Desktop/IT2040/mod12demo/obj/Debug/net7.0/mod12demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinnychu/Desktop/IT2040/mod12demo/obj/Debug/net7.0/mod12demo.AssemblyInfoInputs.cache
+/Users/vinnychu/Desktop/IT2040/mod12demo/obj/Debug/net7.0/mod12demo.AssemblyInfo.cs
+/Users/vinnychu/Desktop/IT2040/mod12demo/obj/Debug/net7.0/mod12demo.csproj.CoreCompileInputs.cache
+/Users/vinnychu/Desktop/IT2040/mod12demo/obj/Debug/net7.0/mod12demo.dll
+/Users/vinnychu/Desktop/IT2040/mod12demo/obj/Debug/net7.0/refint/mod12demo.dll
+/Users/vinnychu/Desktop/IT2040/mod12demo/obj/Debug/net7.0/mod12demo.pdb
+/Users/vinnychu/Desktop/IT2040/mod12demo/obj/Debug/net7.0/mod12demo.genruntimeconfig.cache
+/Users/vinnychu/Desktop/IT2040/mod12demo/obj/Debug/net7.0/ref/mod12demo.dll
+C:\Users\Vincent chu\VIsual Studio\mod12demo\bin\Debug\net7.0\mod12demo.exe
+C:\Users\Vincent chu\VIsual Studio\mod12demo\bin\Debug\net7.0\mod12demo.deps.json
+C:\Users\Vincent chu\VIsual Studio\mod12demo\bin\Debug\net7.0\mod12demo.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\mod12demo\bin\Debug\net7.0\mod12demo.dll
+C:\Users\Vincent chu\VIsual Studio\mod12demo\bin\Debug\net7.0\mod12demo.pdb
+C:\Users\Vincent chu\VIsual Studio\mod12demo\obj\Debug\net7.0\mod12demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\mod12demo\obj\Debug\net7.0\mod12demo.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\mod12demo\obj\Debug\net7.0\mod12demo.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\mod12demo\obj\Debug\net7.0\mod12demo.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\mod12demo\obj\Debug\net7.0\mod12demo.dll
+C:\Users\Vincent chu\VIsual Studio\mod12demo\obj\Debug\net7.0\refint\mod12demo.dll
+C:\Users\Vincent chu\VIsual Studio\mod12demo\obj\Debug\net7.0\mod12demo.pdb
+C:\Users\Vincent chu\VIsual Studio\mod12demo\obj\Debug\net7.0\mod12demo.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\mod12demo\obj\Debug\net7.0\ref\mod12demo.dll
