@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\bin\Debug\net7.0\DictionaryExample.exe
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\bin\Debug\net7.0\DictionaryExample.deps.json
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\bin\Debug\net7.0\DictionaryExample.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\bin\Debug\net7.0\DictionaryExample.dll
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\bin\Debug\net7.0\DictionaryExample.pdb
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\obj\Debug\net7.0\DictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\obj\Debug\net7.0\DictionaryExample.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\obj\Debug\net7.0\DictionaryExample.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\obj\Debug\net7.0\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\obj\Debug\net7.0\DictionaryExample.dll
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\obj\Debug\net7.0\refint\DictionaryExample.dll
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\obj\Debug\net7.0\DictionaryExample.pdb
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\obj\Debug\net7.0\DictionaryExample.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\DictionaryExample\obj\Debug\net7.0\ref\DictionaryExample.dll
