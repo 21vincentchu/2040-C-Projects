@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\bin\Debug\net7.0\ObjectPositionVC.exe
+c:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\bin\Debug\net7.0\ObjectPositionVC.deps.json
+c:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\bin\Debug\net7.0\ObjectPositionVC.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\bin\Debug\net7.0\ObjectPositionVC.dll
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\bin\Debug\net7.0\ObjectPositionVC.pdb
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\obj\Debug\net7.0\ObjectPositionVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\obj\Debug\net7.0\ObjectPositionVC.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\obj\Debug\net7.0\ObjectPositionVC.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\obj\Debug\net7.0\ObjectPositionVC.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\obj\Debug\net7.0\ObjectPositionVC.dll
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\obj\Debug\net7.0\refint\ObjectPositionVC.dll
+C:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\obj\Debug\net7.0\ObjectPositionVC.pdb
+c:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\obj\Debug\net7.0\ObjectPositionVC.genruntimeconfig.cache
+c:\Users\Vincent chu\VIsual Studio\ObjectPositionVC\obj\Debug\net7.0\ref\ObjectPositionVC.dll
