@@ -1,0 +1,14 @@
+/Users/vinnychu/Desktop/IT2040/splitDemo/bin/Debug/net7.0/splitDemo
+/Users/vinnychu/Desktop/IT2040/splitDemo/bin/Debug/net7.0/splitDemo.deps.json
+/Users/vinnychu/Desktop/IT2040/splitDemo/bin/Debug/net7.0/splitDemo.runtimeconfig.json
+/Users/vinnychu/Desktop/IT2040/splitDemo/bin/Debug/net7.0/splitDemo.dll
+/Users/vinnychu/Desktop/IT2040/splitDemo/bin/Debug/net7.0/splitDemo.pdb
+/Users/vinnychu/Desktop/IT2040/splitDemo/obj/Debug/net7.0/splitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinnychu/Desktop/IT2040/splitDemo/obj/Debug/net7.0/splitDemo.AssemblyInfoInputs.cache
+/Users/vinnychu/Desktop/IT2040/splitDemo/obj/Debug/net7.0/splitDemo.AssemblyInfo.cs
+/Users/vinnychu/Desktop/IT2040/splitDemo/obj/Debug/net7.0/splitDemo.csproj.CoreCompileInputs.cache
+/Users/vinnychu/Desktop/IT2040/splitDemo/obj/Debug/net7.0/splitDemo.dll
+/Users/vinnychu/Desktop/IT2040/splitDemo/obj/Debug/net7.0/refint/splitDemo.dll
+/Users/vinnychu/Desktop/IT2040/splitDemo/obj/Debug/net7.0/splitDemo.pdb
+/Users/vinnychu/Desktop/IT2040/splitDemo/obj/Debug/net7.0/splitDemo.genruntimeconfig.cache
+/Users/vinnychu/Desktop/IT2040/splitDemo/obj/Debug/net7.0/ref/splitDemo.dll

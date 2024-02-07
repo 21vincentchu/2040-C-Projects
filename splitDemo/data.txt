@@ -1,0 +1,4 @@
+name, age, major, gpa
+Truman Tiger, 23, journalism, 3.6
+Dora Explorer, 8, geography, 3.9
+Jerry Mouse, 88, IT, 2.99
