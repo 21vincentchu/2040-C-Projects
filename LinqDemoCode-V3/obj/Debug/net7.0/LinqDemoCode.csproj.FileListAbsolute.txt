@@ -1,0 +1,29 @@
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/bin/Debug/net7.0/LinqDemoCode
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/bin/Debug/net7.0/LinqDemoCode.deps.json
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/bin/Debug/net7.0/LinqDemoCode.runtimeconfig.json
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/bin/Debug/net7.0/LinqDemoCode.dll
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/bin/Debug/net7.0/LinqDemoCode.pdb
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/LinqDemoCode.csproj.AssemblyReference.cache
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/LinqDemoCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/LinqDemoCode.AssemblyInfoInputs.cache
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/LinqDemoCode.AssemblyInfo.cs
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/LinqDemoCode.csproj.CoreCompileInputs.cache
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/LinqDemoCode.dll
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/refint/LinqDemoCode.dll
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/LinqDemoCode.pdb
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/LinqDemoCode.genruntimeconfig.cache
+/Users/krcd58/Documents/IT-2040/FA2023/class_demos/LinqDemoCode/obj/Debug/net7.0/ref/LinqDemoCode.dll
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\bin\Debug\net7.0\LinqDemoCode.exe
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\bin\Debug\net7.0\LinqDemoCode.deps.json
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\bin\Debug\net7.0\LinqDemoCode.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\bin\Debug\net7.0\LinqDemoCode.dll
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\bin\Debug\net7.0\LinqDemoCode.pdb
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\obj\Debug\net7.0\LinqDemoCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\obj\Debug\net7.0\LinqDemoCode.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\obj\Debug\net7.0\LinqDemoCode.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\obj\Debug\net7.0\LinqDemoCode.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\obj\Debug\net7.0\LinqDemoCode.dll
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\obj\Debug\net7.0\refint\LinqDemoCode.dll
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\obj\Debug\net7.0\LinqDemoCode.pdb
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\obj\Debug\net7.0\LinqDemoCode.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\LinqDemoCode-V3\obj\Debug\net7.0\ref\LinqDemoCode.dll

@@ -1,0 +1,466 @@
+Deans List Students
+------------------------
+Name: Frederick Evans 4
+Name: Kathryn Ortega 3.6
+Name: Bessie Blair 3.9
+Name: Randall Bryan 3.7
+Name: Rosie Knight 3.5
+Name: Barbara Caldwell 3.7
+Name: Adam Graham 3.7
+Name: Howard Hansen 3.5
+Name: Maurice Carpenter 3.5
+Name: Cynthia Murray 3.8
+Name: Craig Higgins 3.7
+Name: Hallie Love 3.5
+Name: Michael Little 3.7
+Name: Derek Pierce 3.5
+Name: Virginia Obrien 3.8
+Name: Max Valdez 3.6
+Name: Richard Moody 3.7
+Name: Estella Wolfe 3.6
+Name: Hallie Mullins 3.7
+Name: Georgia Soto 3.7
+Name: Virginia Terry 4
+Name: Olive Gibbs 4
+Name: Zachary Davidson 4
+Name: Francis Stanley 3.6
+Name: Gerald Webster 3.6
+Name: Caleb Hanson 3.5
+Name: Richard Luna 3.5
+Name: Herbert Sparks 3.6
+Name: Hulda Gross 3.7
+Name: Martha Lopez 4
+Name: Dale Griffith 3.9
+Name: Lilly Dunn 3.8
+Name: Seth Richards 3.7
+Name: Georgia Jordan 3.8
+Name: Elsie Patton 3.8
+Name: Adrian Pearson 3.5
+Name: Don Frank 3.9
+Name: Claudia Sandoval 3.5
+Name: Ollie Leonard 3.6
+Name: Willie Atkins 3.6
+Name: Mason Cohen 3.8
+Name: Leon Adkins 4
+Name: Estella Townsend 3.7
+
+Students Names that Begin with M
+---------------------------
+Name: Mabel Terry
+Name: Mayme Ingram
+Name: Maurice Carpenter
+Name: Mina Sullivan
+Name: Milton Jones
+Name: Michael Little
+Name: Michael Grant
+Name: Max Valdez
+Name: Martha Lopez
+Name: Mason Cohen
+Name: Margaret Jensen
+
+Min GPA 2016 - 2020: 2.00
+Max GPA 2016 - 2020: 4.00
+Average GPA 2016 - 2020: 2.99
+
+Student with Lowest GPA
+-----------------------
+Name: Rhoda Miller
+GPA: 2.00 -- Grad Year: 2016
+
+Name: Tony Gordon
+GPA: 2.00 -- Grad Year: 2024
+
+Name: Mayme Ingram
+GPA: 2.00 -- Grad Year: 2022
+
+Name: Kyle Gibson
+GPA: 2.00 -- Grad Year: 2022
+
+Name: Benjamin Munoz
+GPA: 2.00 -- Grad Year: 2024
+
+Name: Celia Garza
+GPA: 2.00 -- Grad Year: 2018
+
+Name: Leroy Gross
+GPA: 2.00 -- Grad Year: 2024
+
+
+Students by Graduation Year
+----------------------------
+
+Graduation Year: 2014
+-----------------------
+Name: Frederick Evans
+Name: Elijah Hopkins
+Name: Rosie Knight
+Name: Mina Sullivan
+Name: Derek Pierce
+Name: Daniel Fernandez
+Name: Larry Goodwin
+Name: Hallie Mullins
+Name: Lucy Osborne
+Name: Lawrence Lee
+Name: Lou Barnes
+Name: Harriet Robbins
+
+Graduation Year: 2015
+-----------------------
+Name: Clarence Sharp
+Name: Rosalie Harper
+Name: Jordan Watkins
+Name: Tom Stone
+Name: Frank Duncan
+Name: Lizzie Nunez
+Name: Georgia Jordan
+Name: Hulda McDonald
+Name: Adrian Pearson
+Name: Clifford Cross
+Name: Lettie Hunt
+
+Graduation Year: 2016
+-----------------------
+Name: Rhoda Miller
+Name: Barbara Caldwell
+Name: Ophelia Gutierrez
+Name: Howard Hansen
+Name: Hannah Johnson
+Name: Betty Frank
+Name: Virginia Obrien
+Name: Brent Hansen
+Name: Randy Harmon
+Name: Virginia Terry
+Name: Georgia Arnold
+Name: Ora Chavez
+Name: Francis Stanley
+Name: Lloyd Dean
+Name: Bruce Dunn
+Name: Martha Lopez
+Name: Dale Griffith
+Name: Willie Atkins
+Name: Philip Hart
+Name: Leon Adkins
+
+Graduation Year: 2017
+-----------------------
+Name: Bertie Hill
+Name: Bessie Blair
+Name: Louisa Keller
+Name: Rosie Lee
+Name: Trevor Barnett
+Name: Lela George
+Name: Emily Lopez
+Name: Richard Moody
+Name: Walter Page
+Name: Gary Dixon
+Name: Essie Matthews
+Name: Claudia Sandoval
+
+Graduation Year: 2018
+-----------------------
+Name: Mabel Terry
+Name: Kathryn Ortega
+Name: Ellen Walker
+Name: Jackson Christensen
+Name: Ina Lloyd
+Name: Lucy Gilbert
+Name: Beatrice Woods
+Name: Travis Estrada
+Name: Zachary Davidson
+Name: Ian Larson
+Name: Herbert Sparks
+Name: Celia Garza
+Name: Keith Parsons
+Name: Kate Neal
+Name: Landon Shelton
+Name: Ollie Leonard
+Name: Clyde Arnold
+
+Graduation Year: 2019
+-----------------------
+Name: Rachel Guzman
+Name: Rhoda Rowe
+Name: Katharine Day
+Name: Douglas Welch
+Name: George Wells
+Name: Philip Ingram
+Name: Gerald Webster
+Name: Dustin Pierce
+Name: Inez Stewart
+Name: Beulah Fuller
+
+Graduation Year: 2020
+-----------------------
+Name: Frank McKinney
+Name: Craig Higgins
+Name: Patrick Ryan
+Name: Max Valdez
+Name: Estella Wolfe
+Name: Viola Lowe
+Name: Seth Richards
+Name: Craig Kennedy
+Name: Justin Gomez
+Name: Rosetta Ramsey
+Name: Jennie Walters
+Name: Lettie Schwartz
+Name: Estella Townsend
+
+Graduation Year: 2021
+-----------------------
+Name: William Barnes
+Name: Helen Butler
+Name: Milton Jones
+Name: Douglas Hogan
+Name: Chris Johnston
+Name: Logan Sparks
+Name: Warren Farmer
+Name: Trevor Lyons
+Name: Elsie Patton
+Name: Francis Reynolds
+Name: Jane Austin
+Name: Lewis Boyd
+Name: Charles McGee
+
+Graduation Year: 2022
+-----------------------
+Name: Harvey Allison
+Name: Mayme Ingram
+Name: Aaron Gardner
+Name: Adam Graham
+Name: Luke Vega
+Name: Kyle Gibson
+Name: Georgia Soto
+Name: Justin Wolfe
+Name: Hulda Gross
+Name: Don Frank
+Name: Mason Cohen
+
+Graduation Year: 2023
+-----------------------
+Name: Lee Price
+Name: Cynthia Murray
+Name: Andre Haynes
+Name: Hallie Love
+Name: Michael Grant
+Name: Edith Huff
+Name: Vincent Robbins
+Name: Eugene Frazier
+Name: Jeremy Higgins
+Name: Olive Gibbs
+Name: Ophelia Jensen
+Name: Caleb Hanson
+Name: Richard Luna
+Name: Lilly Dunn
+Name: Susan Walker
+Name: Jose Harmon
+Name: Lela Love
+Name: Ryan Potter
+
+Graduation Year: 2024
+-----------------------
+Name: Tony Gordon
+Name: Randall Bryan
+Name: Isabella Holt
+Name: Maurice Carpenter
+Name: Michael Little
+Name: Lawrence Green
+Name: Benjamin Munoz
+Name: Beatrice Andrews
+Name: Jesus Flowers
+Name: Ruth Carson
+Name: Gertrude Castro
+Name: Leroy Gross
+Name: Margaret Jensen
+
+Number of Graduates By Year
+--------------------------------
+Graduation Year: 2014 - 12
+Graduation Year: 2015 - 11
+Graduation Year: 2016 - 20
+Graduation Year: 2017 - 12
+Graduation Year: 2018 - 17
+Graduation Year: 2019 - 10
+Graduation Year: 2020 - 13
+Graduation Year: 2021 - 13
+Graduation Year: 2022 - 11
+Graduation Year: 2023 - 18
+Graduation Year: 2024 - 13
+
+Distinct Majors
+--------------------
+Civil Engineering
+Computer Science
+Electrical Engineering
+Information Technology
+
+Distinct Majors #2
+--------------------
+Computer Science
+Electrical Engineering
+Civil Engineering
+Information Technology
+
+Students By Major
+--------------------------
+
+Civil Engineering
+-------------------
+Frederick Evans
+Randall Bryan
+Rosie Lee
+Rosie Knight
+Barbara Caldwell
+Craig Higgins
+Michael Little
+Luke Vega
+Derek Pierce
+Beatrice Woods
+Frank Duncan
+Chris Johnston
+Travis Estrada
+Randy Harmon
+Hallie Mullins
+Walter Page
+Gary Dixon
+Virginia Terry
+Benjamin Munoz
+Lucy Osborne
+Douglas Welch
+Olive Gibbs
+Zachary Davidson
+Francis Stanley
+Gerald Webster
+Richard Luna
+Essie Matthews
+Hulda Gross
+Trevor Lyons
+Martha Lopez
+Dale Griffith
+Lou Barnes
+Dustin Pierce
+Georgia Jordan
+Elsie Patton
+Kate Neal
+Clifford Cross
+Willie Atkins
+Beulah Fuller
+Jennie Walters
+Lettie Hunt
+Leon Adkins
+Margaret Jensen
+
+Computer Science
+-------------------
+Bertie Hill
+Tony Gordon
+Bessie Blair
+Louisa Keller
+Harvey Allison
+Mayme Ingram
+Elijah Hopkins
+Isabella Holt
+Frank McKinney
+Adam Graham
+Rosalie Harper
+Maurice Carpenter
+Cynthia Murray
+Andre Haynes
+Lela George
+Ina Lloyd
+Hallie Love
+Lucy Gilbert
+Patrick Ryan
+Emily Lopez
+Daniel Fernandez
+Richard Moody
+Edith Huff
+Kyle Gibson
+Estella Wolfe
+Brent Hansen
+Lawrence Green
+Viola Lowe
+Georgia Soto
+Georgia Arnold
+Rhoda Rowe
+Lawrence Lee
+George Wells
+Ophelia Jensen
+Warren Farmer
+Justin Wolfe
+Justin Gomez
+Landon Shelton
+Ollie Leonard
+Lewis Boyd
+Jose Harmon
+Philip Hart
+
+Electrical Engineering
+-------------------
+Mabel Terry
+Rhoda Miller
+Howard Hansen
+Lee Price
+Jackson Christensen
+Betty Frank
+Virginia Obrien
+Michael Grant
+Max Valdez
+Larry Goodwin
+Douglas Hogan
+Tom Stone
+Eugene Frazier
+Ora Chavez
+Logan Sparks
+Ian Larson
+Caleb Hanson
+Herbert Sparks
+Jesus Flowers
+Celia Garza
+Lilly Dunn
+Harriet Robbins
+Gertrude Castro
+Adrian Pearson
+Craig Kennedy
+Jane Austin
+Don Frank
+Rosetta Ramsey
+Claudia Sandoval
+Inez Stewart
+Clyde Arnold
+Mason Cohen
+Lettie Schwartz
+Ryan Potter
+
+Information Technology
+-------------------
+Clarence Sharp
+Kathryn Ortega
+William Barnes
+Ellen Walker
+Trevor Barnett
+Aaron Gardner
+Ophelia Gutierrez
+Helen Butler
+Hannah Johnson
+Mina Sullivan
+Milton Jones
+Jordan Watkins
+Vincent Robbins
+Rachel Guzman
+Jeremy Higgins
+Katharine Day
+Philip Ingram
+Lloyd Dean
+Beatrice Andrews
+Bruce Dunn
+Keith Parsons
+Ruth Carson
+Lizzie Nunez
+Seth Richards
+Hulda McDonald
+Francis Reynolds
+Susan Walker
+Leroy Gross
+Lela Love
+Charles McGee
+Estella Townsend

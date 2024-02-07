@@ -1,0 +1,1128 @@
+
+_____________________________________
+Total Sales in data set
+_____________________________________
+total sales: $307,587.38
+
+_____________________________________
+Unique product lines
+_____________________________________
+
+Health and beauty
+Electronic accessories
+Home and lifestyle
+Sports and travel
+Food and beverages
+Fashion accessories
+
+_____________________________________
+Total Sales Per Product Line
+_____________________________________
+
+Electronic accessories: $51,750.03
+Fashion accessories: $51,719.90
+Food and beverages: $53,471.28
+Health and beauty: $46,851.18
+Home and lifestyle: $51,297.06
+Sports and travel: $52,497.93
+
+_____________________________________
+Total Sales Per City
+_____________________________________
+
+Mandalay: $101,140.64
+Naypyitaw: $105,303.53
+Yangon: $101,143.21
+
+_____________________________________
+Most expensive product line unit (s)
+_____________________________________
+
+
+_____________________________________
+Total sales per month
+_____________________________________
+
+
+**********Mandalay**********
+
+1/2019: Mandalay - Total: $35,405.77 
+2/2019: Mandalay - Total: $32,785.02 
+3/2019: Mandalay - Total: $32,949.85 
+
+**********Naypyitaw**********
+
+1/2019: Naypyitaw - Total: $38,509.22 
+2/2019: Naypyitaw - Total: $31,366.65 
+3/2019: Naypyitaw - Total: $35,427.66 
+
+**********Yangon**********
+
+1/2019: Yangon - Total: $36,839.17 
+2/2019: Yangon - Total: $28,438.21 
+3/2019: Yangon - Total: $35,865.83 
+
+_____________________________________
+Totals by payment type
+_____________________________________
+
+Cash: $106,863.40
+Credit card: $95,968.64
+Ewallet: $104,755.34
+
+_____________________________________
+Sales Transactions per member type
+_____________________________________
+
+Member: 501
+Normal: 499
+
+_____________________________________
+Average Rating For Each Product Line
+_____________________________________
+
+Electronic accessories: 6.92
+Fashion accessories: 7.03
+Food and beverages: 7.11
+Health and beauty: 7.00
+Home and lifestyle: 6.84
+Sports and travel: 6.92
+
+_____________________________________
+Transaction Totals per payment type
+_____________________________________
+
+Cash: 344
+Credit card: 311
+Ewallet: 345
+
+_____________________________________
+Products sold per city
+_____________________________________
+
+Mandalay: 1820
+Naypyitaw: 1831
+Yangon: 1859
+
+_____________________________________
+Each transaction by product type with a 5% sales tax
+_____________________________________
+
+
+***************Health and beauty***************
+
+Invoice ID: 750-67-8428 - Total: $548.97 - Tax: $26.14
+Invoice ID: 123-19-1176 - Total: $489.05 - Tax: $23.29
+Invoice ID: 665-32-9167 - Total: $76.15 - Tax: $3.63
+Invoice ID: 829-34-3910 - Total: $749.49 - Tax: $35.69
+Invoice ID: 656-95-9349 - Total: $506.64 - Tax: $24.13
+Invoice ID: 371-85-5789 - Total: $277.14 - Tax: $13.20
+Invoice ID: 848-62-7243 - Total: $235.21 - Tax: $11.20
+Invoice ID: 595-11-5460 - Total: $202.82 - Tax: $9.66
+Invoice ID: 333-73-7901 - Total: $461.33 - Tax: $21.97
+Invoice ID: 617-15-4209 - Total: $32.28 - Tax: $1.54
+Invoice ID: 370-41-7321 - Total: $535.72 - Tax: $25.51
+Invoice ID: 635-40-6220 - Total: $752.64 - Tax: $35.84
+Invoice ID: 853-23-2453 - Total: $318.11 - Tax: $15.15
+Invoice ID: 877-22-3308 - Total: $166.64 - Tax: $7.94
+Invoice ID: 838-78-4295 - Total: $70.29 - Tax: $3.35
+Invoice ID: 382-03-4532 - Total: $19.25 - Tax: $0.92
+Invoice ID: 756-01-7507 - Total: $107.00 - Tax: $5.10
+Invoice ID: 870-72-4431 - Total: $624.90 - Tax: $29.76
+Invoice ID: 318-68-5053 - Total: $485.04 - Tax: $23.10
+Invoice ID: 152-08-9985 - Total: $608.20 - Tax: $28.96
+Invoice ID: 512-91-0811 - Total: $94.24 - Tax: $4.49
+Invoice ID: 766-85-7061 - Total: $922.64 - Tax: $43.94
+Invoice ID: 716-39-1409 - Total: $223.07 - Tax: $10.62
+Invoice ID: 210-67-5886 - Total: $309.36 - Tax: $14.73
+Invoice ID: 483-71-1164 - Total: $512.19 - Tax: $24.39
+Invoice ID: 280-17-4359 - Total: $950.25 - Tax: $45.25
+Invoice ID: 338-65-2210 - Total: $720.30 - Tax: $34.30
+Invoice ID: 458-41-1477 - Total: $291.44 - Tax: $13.88
+Invoice ID: 568-90-5112 - Total: $277.79 - Tax: $13.23
+Invoice ID: 238-49-0436 - Total: $272.66 - Tax: $12.98
+Invoice ID: 743-04-1105 - Total: $918.73 - Tax: $43.75
+Invoice ID: 505-02-0892 - Total: $357.59 - Tax: $17.03
+Invoice ID: 249-42-3782 - Total: $367.55 - Tax: $17.50
+Invoice ID: 342-65-4817 - Total: $273.42 - Tax: $13.02
+Invoice ID: 824-88-3614 - Total: $288.20 - Tax: $13.72
+Invoice ID: 848-24-9445 - Total: $91.77 - Tax: $4.37
+Invoice ID: 699-01-4164 - Total: $174.30 - Tax: $8.30
+Invoice ID: 875-46-5808 - Total: $271.95 - Tax: $12.95
+Invoice ID: 749-24-1565 - Total: $217.63 - Tax: $10.36
+Invoice ID: 836-82-5858 - Total: $655.55 - Tax: $31.22
+Invoice ID: 418-02-5978 - Total: $794.65 - Tax: $37.84
+Invoice ID: 157-13-5295 - Total: $545.37 - Tax: $25.97
+Invoice ID: 211-30-9270 - Total: $91.40 - Tax: $4.35
+Invoice ID: 448-81-5016 - Total: $125.52 - Tax: $5.98
+Invoice ID: 687-15-1097 - Total: $44.35 - Tax: $2.11
+Invoice ID: 477-24-6490 - Total: $628.17 - Tax: $29.91
+Invoice ID: 667-92-0055 - Total: $628.93 - Tax: $29.95
+Invoice ID: 565-17-3836 - Total: $200.21 - Tax: $9.53
+Invoice ID: 498-41-1961 - Total: $350.07 - Tax: $16.67
+Invoice ID: 585-03-5943 - Total: $190.16 - Tax: $9.06
+Invoice ID: 573-10-3877 - Total: $40.96 - Tax: $1.95
+Invoice ID: 423-64-4619 - Total: $146.95 - Tax: $7.00
+Invoice ID: 704-20-4138 - Total: $218.07 - Tax: $10.38
+Invoice ID: 787-15-1757 - Total: $185.09 - Tax: $8.81
+Invoice ID: 622-20-1945 - Total: $41.39 - Tax: $1.97
+Invoice ID: 372-94-8041 - Total: $96.14 - Tax: $4.58
+Invoice ID: 730-61-8757 - Total: $214.75 - Tax: $10.23
+Invoice ID: 433-75-6987 - Total: $411.38 - Tax: $19.59
+Invoice ID: 873-95-4984 - Total: $565.22 - Tax: $26.92
+Invoice ID: 400-45-1220 - Total: $141.75 - Tax: $6.75
+Invoice ID: 725-56-0833 - Total: $339.36 - Tax: $16.16
+Invoice ID: 885-17-6250 - Total: $83.73 - Tax: $3.99
+Invoice ID: 726-27-2396 - Total: $406.88 - Tax: $19.38
+Invoice ID: 793-10-3222 - Total: $258.68 - Tax: $12.32
+Invoice ID: 244-08-0162 - Total: $359.21 - Tax: $17.11
+Invoice ID: 132-23-6451 - Total: $110.09 - Tax: $5.24
+Invoice ID: 268-03-6164 - Total: $100.92 - Tax: $4.81
+Invoice ID: 186-09-3669 - Total: $85.59 - Tax: $4.08
+Invoice ID: 848-07-1692 - Total: $120.16 - Tax: $5.72
+Invoice ID: 269-10-8440 - Total: $390.80 - Tax: $18.61
+Invoice ID: 390-80-5128 - Total: $20.11 - Tax: $0.96
+Invoice ID: 296-11-7041 - Total: $28.42 - Tax: $1.35
+Invoice ID: 568-88-3448 - Total: $26.25 - Tax: $1.25
+Invoice ID: 440-59-5691 - Total: $273.05 - Tax: $13.00
+Invoice ID: 731-59-7531 - Total: $609.59 - Tax: $29.03
+Invoice ID: 502-05-1910 - Total: $205.32 - Tax: $9.78
+Invoice ID: 608-04-3797 - Total: $212.69 - Tax: $10.13
+Invoice ID: 291-21-5991 - Total: $321.77 - Tax: $15.32
+Invoice ID: 425-85-2085 - Total: $288.02 - Tax: $13.72
+Invoice ID: 133-14-7229 - Total: $132.03 - Tax: $6.29
+Invoice ID: 287-83-1405 - Total: $160.21 - Tax: $7.63
+Invoice ID: 343-87-0864 - Total: $79.67 - Tax: $3.79
+Invoice ID: 210-57-1719 - Total: $550.37 - Tax: $26.21
+Invoice ID: 797-88-0493 - Total: $269.93 - Tax: $12.85
+Invoice ID: 207-73-1363 - Total: $145.97 - Tax: $6.95
+Invoice ID: 443-82-0585 - Total: $326.26 - Tax: $15.54
+Invoice ID: 127-47-6963 - Total: $217.18 - Tax: $10.34
+Invoice ID: 227-50-3718 - Total: $76.76 - Tax: $3.66
+Invoice ID: 302-15-2162 - Total: $293.14 - Tax: $13.96
+Invoice ID: 470-31-3286 - Total: $46.68 - Tax: $2.22
+Invoice ID: 628-90-8624 - Total: $867.09 - Tax: $41.29
+Invoice ID: 188-55-0967 - Total: $697.94 - Tax: $33.24
+Invoice ID: 610-46-4100 - Total: $212.78 - Tax: $10.13
+Invoice ID: 778-89-7974 - Total: $442.32 - Tax: $21.06
+Invoice ID: 563-47-4072 - Total: $351.60 - Tax: $16.74
+Invoice ID: 190-14-3147 - Total: $75.47 - Tax: $3.59
+Invoice ID: 408-66-6712 - Total: $300.57 - Tax: $14.31
+Invoice ID: 576-31-4774 - Total: $231.24 - Tax: $11.01
+Invoice ID: 556-41-6224 - Total: $282.58 - Tax: $13.46
+Invoice ID: 648-94-3045 - Total: $618.98 - Tax: $29.48
+Invoice ID: 689-05-1884 - Total: $510.62 - Tax: $24.32
+Invoice ID: 729-06-2010 - Total: $760.44 - Tax: $36.21
+Invoice ID: 186-79-9562 - Total: $527.51 - Tax: $25.12
+Invoice ID: 268-20-3585 - Total: $130.88 - Tax: $6.23
+Invoice ID: 258-92-7466 - Total: $187.32 - Tax: $8.92
+Invoice ID: 149-14-0304 - Total: $239.40 - Tax: $11.40
+Invoice ID: 635-28-5728 - Total: $176.40 - Tax: $8.40
+Invoice ID: 607-65-2441 - Total: $860.48 - Tax: $40.98
+Invoice ID: 314-23-4520 - Total: $597.04 - Tax: $28.43
+Invoice ID: 587-73-4862 - Total: $56.12 - Tax: $2.67
+Invoice ID: 787-87-2010 - Total: $233.10 - Tax: $11.10
+Invoice ID: 759-98-4285 - Total: $631.14 - Tax: $30.05
+Invoice ID: 102-77-2261 - Total: $480.03 - Tax: $22.86
+Invoice ID: 629-42-4133 - Total: $183.12 - Tax: $8.72
+Invoice ID: 516-77-6464 - Total: $53.34 - Tax: $2.54
+Invoice ID: 790-38-4466 - Total: $57.70 - Tax: $2.75
+Invoice ID: 704-10-4056 - Total: $190.48 - Tax: $9.07
+Invoice ID: 400-80-4065 - Total: $287.91 - Tax: $13.71
+Invoice ID: 359-94-5395 - Total: $97.42 - Tax: $4.64
+Invoice ID: 559-61-5987 - Total: $18.64 - Tax: $0.89
+Invoice ID: 565-91-4567 - Total: $90.30 - Tax: $4.30
+Invoice ID: 869-11-3082 - Total: $403.87 - Tax: $19.23
+Invoice ID: 276-75-6884 - Total: $216.44 - Tax: $10.31
+Invoice ID: 222-42-0244 - Total: $681.44 - Tax: $32.45
+Invoice ID: 636-17-0325 - Total: $262.79 - Tax: $12.51
+Invoice ID: 528-14-9470 - Total: $95.87 - Tax: $4.57
+Invoice ID: 658-66-3967 - Total: $390.95 - Tax: $18.62
+Invoice ID: 160-22-2687 - Total: $503.74 - Tax: $23.99
+Invoice ID: 234-36-2483 - Total: $362.82 - Tax: $17.28
+Invoice ID: 176-78-1170 - Total: $106.50 - Tax: $5.07
+Invoice ID: 101-81-4070 - Total: $131.92 - Tax: $6.28
+Invoice ID: 389-70-2397 - Total: $439.22 - Tax: $20.92
+Invoice ID: 699-88-1972 - Total: $832.94 - Tax: $39.66
+Invoice ID: 725-54-0677 - Total: $629.16 - Tax: $29.96
+Invoice ID: 595-94-9924 - Total: $145.58 - Tax: $6.93
+Invoice ID: 545-07-8534 - Total: $122.47 - Tax: $5.83
+Invoice ID: 450-42-3339 - Total: $888.41 - Tax: $42.31
+Invoice ID: 851-98-3555 - Total: $435.12 - Tax: $20.72
+Invoice ID: 397-25-8725 - Total: $374.41 - Tax: $17.83
+Invoice ID: 458-10-8612 - Total: $470.99 - Tax: $22.43
+Invoice ID: 433-08-7822 - Total: $579.84 - Tax: $27.61
+Invoice ID: 131-70-8179 - Total: $290.08 - Tax: $13.81
+Invoice ID: 449-16-6770 - Total: $266.65 - Tax: $12.70
+Invoice ID: 333-23-2632 - Total: $74.09 - Tax: $3.53
+Invoice ID: 503-21-4385 - Total: $125.72 - Tax: $5.99
+Invoice ID: 605-03-2706 - Total: $49.77 - Tax: $2.37
+Invoice ID: 809-46-1866 - Total: $244.23 - Tax: $11.63
+Invoice ID: 148-41-7930 - Total: $734.71 - Tax: $34.99
+Invoice ID: 764-44-8999 - Total: $31.00 - Tax: $1.48
+Invoice ID: 552-44-5977 - Total: $520.80 - Tax: $24.80
+Invoice ID: 430-53-4718 - Total: $633.11 - Tax: $30.15
+Invoice ID: 233-67-5758 - Total: $42.37 - Tax: $2.02
+
+***************Electronic accessories***************
+
+Invoice ID: 226-31-3081 - Total: $80.22 - Tax: $3.82
+Invoice ID: 699-14-3026 - Total: $627.62 - Tax: $29.89
+Invoice ID: 355-53-5943 - Total: $433.69 - Tax: $20.65
+Invoice ID: 529-56-3974 - Total: $107.14 - Tax: $5.10
+Invoice ID: 365-64-0515 - Total: $246.49 - Tax: $11.74
+Invoice ID: 300-71-4605 - Total: $451.71 - Tax: $21.51
+Invoice ID: 636-48-8204 - Total: $181.44 - Tax: $8.64
+Invoice ID: 272-65-1806 - Total: $575.32 - Tax: $27.40
+Invoice ID: 132-32-9879 - Total: $394.63 - Tax: $18.79
+Invoice ID: 669-54-1719 - Total: $119.26 - Tax: $5.68
+Invoice ID: 399-46-5918 - Total: $722.23 - Tax: $34.39
+Invoice ID: 120-06-4233 - Total: $192.84 - Tax: $9.18
+Invoice ID: 841-35-6630 - Total: $478.23 - Tax: $22.77
+Invoice ID: 732-94-0499 - Total: $437.33 - Tax: $20.83
+Invoice ID: 594-34-4444 - Total: $102.02 - Tax: $4.86
+Invoice ID: 871-39-9221 - Total: $78.44 - Tax: $3.74
+Invoice ID: 551-21-3069 - Total: $218.01 - Tax: $10.38
+Invoice ID: 704-48-3927 - Total: $931.04 - Tax: $44.34
+Invoice ID: 861-77-0145 - Total: $860.69 - Tax: $40.99
+Invoice ID: 638-60-7125 - Total: $836.30 - Tax: $39.82
+Invoice ID: 590-83-4591 - Total: $550.94 - Tax: $26.24
+Invoice ID: 700-81-1757 - Total: $138.13 - Tax: $6.58
+Invoice ID: 279-74-2924 - Total: $75.78 - Tax: $3.61
+Invoice ID: 733-33-4967 - Total: $175.14 - Tax: $8.34
+Invoice ID: 608-27-6295 - Total: $333.21 - Tax: $15.87
+Invoice ID: 831-07-6050 - Total: $171.73 - Tax: $8.18
+Invoice ID: 542-41-0513 - Total: $241.46 - Tax: $11.50
+Invoice ID: 426-39-2418 - Total: $451.36 - Tax: $21.49
+Invoice ID: 672-51-8681 - Total: $629.84 - Tax: $29.99
+Invoice ID: 817-69-8206 - Total: $942.45 - Tax: $44.88
+Invoice ID: 888-02-0338 - Total: $247.87 - Tax: $11.80
+Invoice ID: 319-74-2561 - Total: $298.12 - Tax: $14.20
+Invoice ID: 239-36-3640 - Total: $285.71 - Tax: $13.61
+Invoice ID: 389-25-3394 - Total: $62.00 - Tax: $2.95
+Invoice ID: 583-72-1480 - Total: $155.65 - Tax: $7.41
+Invoice ID: 466-61-5506 - Total: $571.41 - Tax: $27.21
+Invoice ID: 545-46-3100 - Total: $33.36 - Tax: $1.59
+Invoice ID: 346-84-3103 - Total: $69.41 - Tax: $3.31
+Invoice ID: 866-05-7563 - Total: $256.41 - Tax: $12.21
+Invoice ID: 799-71-1548 - Total: $326.42 - Tax: $15.54
+Invoice ID: 366-93-0948 - Total: $69.67 - Tax: $3.32
+Invoice ID: 151-16-1484 - Total: $135.45 - Tax: $6.45
+Invoice ID: 380-94-4661 - Total: $276.95 - Tax: $13.19
+Invoice ID: 850-41-9669 - Total: $709.32 - Tax: $33.78
+Invoice ID: 139-20-0155 - Total: $423.15 - Tax: $20.15
+Invoice ID: 558-80-4082 - Total: $204.70 - Tax: $9.75
+Invoice ID: 278-97-7759 - Total: $65.60 - Tax: $3.12
+Invoice ID: 211-05-0490 - Total: $272.58 - Tax: $12.98
+Invoice ID: 727-75-6477 - Total: $121.13 - Tax: $5.77
+Invoice ID: 439-54-7422 - Total: $215.00 - Tax: $10.24
+Invoice ID: 396-90-2219 - Total: $125.66 - Tax: $5.98
+Invoice ID: 411-77-0180 - Total: $530.67 - Tax: $25.27
+Invoice ID: 512-98-1403 - Total: $83.41 - Tax: $3.97
+Invoice ID: 227-07-4446 - Total: $820.37 - Tax: $39.07
+Invoice ID: 603-07-0961 - Total: $392.65 - Tax: $18.70
+Invoice ID: 340-66-0321 - Total: $152.71 - Tax: $7.27
+Invoice ID: 527-09-6272 - Total: $149.36 - Tax: $7.11
+Invoice ID: 633-09-3463 - Total: $150.10 - Tax: $7.15
+Invoice ID: 378-07-7001 - Total: $151.48 - Tax: $7.21
+Invoice ID: 441-94-7118 - Total: $75.55 - Tax: $3.60
+Invoice ID: 531-80-1784 - Total: $191.25 - Tax: $9.11
+Invoice ID: 834-61-8124 - Total: $379.92 - Tax: $18.09
+Invoice ID: 320-49-6392 - Total: $31.75 - Tax: $1.51
+Invoice ID: 453-63-6187 - Total: $86.63 - Tax: $4.13
+Invoice ID: 122-61-9553 - Total: $484.97 - Tax: $23.09
+Invoice ID: 254-31-0042 - Total: $203.18 - Tax: $9.68
+Invoice ID: 201-86-2184 - Total: $193.01 - Tax: $9.19
+Invoice ID: 182-69-8360 - Total: $99.33 - Tax: $4.73
+Invoice ID: 462-78-5240 - Total: $55.88 - Tax: $2.66
+Invoice ID: 563-36-9814 - Total: $80.66 - Tax: $3.84
+Invoice ID: 346-12-3257 - Total: $181.82 - Tax: $8.66
+Invoice ID: 745-71-3520 - Total: $185.37 - Tax: $8.83
+Invoice ID: 740-22-2500 - Total: $264.76 - Tax: $12.61
+Invoice ID: 459-50-7686 - Total: $147.80 - Tax: $7.04
+Invoice ID: 810-60-6344 - Total: $343.22 - Tax: $16.34
+Invoice ID: 891-01-7034 - Total: $470.67 - Tax: $22.41
+Invoice ID: 744-09-5786 - Total: $138.66 - Tax: $6.60
+Invoice ID: 187-83-5490 - Total: $87.23 - Tax: $4.15
+Invoice ID: 533-33-5337 - Total: $833.60 - Tax: $39.70
+Invoice ID: 325-90-8763 - Total: $488.99 - Tax: $23.29
+Invoice ID: 233-34-0817 - Total: $103.78 - Tax: $4.94
+Invoice ID: 676-39-6028 - Total: $338.31 - Tax: $16.11
+Invoice ID: 598-47-9715 - Total: $353.09 - Tax: $16.81
+Invoice ID: 575-67-1508 - Total: $40.53 - Tax: $1.93
+Invoice ID: 246-11-3901 - Total: $344.40 - Tax: $16.40
+Invoice ID: 556-97-7101 - Total: $132.76 - Tax: $6.32
+Invoice ID: 726-29-6793 - Total: $203.11 - Tax: $9.67
+Invoice ID: 189-52-0236 - Total: $731.69 - Tax: $34.84
+Invoice ID: 734-91-1155 - Total: $143.99 - Tax: $6.86
+Invoice ID: 857-67-9057 - Total: $240.98 - Tax: $11.48
+Invoice ID: 243-47-2663 - Total: $118.25 - Tax: $5.63
+Invoice ID: 213-32-1216 - Total: $416.18 - Tax: $19.82
+Invoice ID: 399-69-4630 - Total: $139.92 - Tax: $6.66
+Invoice ID: 134-75-2619 - Total: $142.00 - Tax: $6.76
+Invoice ID: 174-75-0888 - Total: $203.93 - Tax: $9.71
+Invoice ID: 134-54-4720 - Total: $356.33 - Tax: $16.97
+Invoice ID: 760-90-2357 - Total: $469.41 - Tax: $22.35
+Invoice ID: 219-61-4139 - Total: $87.23 - Tax: $4.15
+Invoice ID: 421-95-9805 - Total: $30.41 - Tax: $1.45
+Invoice ID: 840-19-2096 - Total: $461.53 - Tax: $21.98
+Invoice ID: 655-07-2265 - Total: $246.68 - Tax: $11.75
+Invoice ID: 318-81-2368 - Total: $48.51 - Tax: $2.31
+Invoice ID: 155-45-3814 - Total: $743.82 - Tax: $35.42
+Invoice ID: 794-32-2436 - Total: $116.91 - Tax: $5.57
+Invoice ID: 273-84-2164 - Total: $63.26 - Tax: $3.01
+Invoice ID: 740-11-5257 - Total: $259.77 - Tax: $12.37
+Invoice ID: 369-82-2676 - Total: $397.22 - Tax: $18.92
+Invoice ID: 169-52-4504 - Total: $49.42 - Tax: $2.35
+Invoice ID: 250-81-7186 - Total: $104.67 - Tax: $4.98
+Invoice ID: 811-03-8790 - Total: $477.54 - Tax: $22.74
+Invoice ID: 528-87-5606 - Total: $41.45 - Tax: $1.97
+Invoice ID: 868-06-0466 - Total: $657.53 - Tax: $31.31
+Invoice ID: 834-45-5519 - Total: $180.60 - Tax: $8.60
+Invoice ID: 183-21-3799 - Total: $733.60 - Tax: $34.93
+Invoice ID: 482-17-1179 - Total: $37.61 - Tax: $1.79
+Invoice ID: 438-23-1242 - Total: $557.72 - Tax: $26.56
+Invoice ID: 137-63-5492 - Total: $616.98 - Tax: $29.38
+Invoice ID: 197-77-7132 - Total: $769.10 - Tax: $36.62
+Invoice ID: 807-14-7833 - Total: $182.91 - Tax: $8.71
+Invoice ID: 785-96-0615 - Total: $300.22 - Tax: $14.30
+Invoice ID: 525-09-8450 - Total: $757.37 - Tax: $36.07
+Invoice ID: 711-31-1234 - Total: $401.69 - Tax: $19.13
+Invoice ID: 457-94-0464 - Total: $830.37 - Tax: $39.54
+Invoice ID: 404-91-5964 - Total: $548.16 - Tax: $26.10
+Invoice ID: 886-77-9084 - Total: $603.88 - Tax: $28.76
+Invoice ID: 263-12-5321 - Total: $680.61 - Tax: $32.41
+Invoice ID: 702-72-0487 - Total: $97.88 - Tax: $4.66
+Invoice ID: 324-41-6833 - Total: $253.68 - Tax: $12.08
+Invoice ID: 831-81-6575 - Total: $714.33 - Tax: $34.02
+Invoice ID: 257-60-7754 - Total: $210.97 - Tax: $10.05
+Invoice ID: 380-60-5336 - Total: $422.73 - Tax: $20.13
+Invoice ID: 674-56-6360 - Total: $99.91 - Tax: $4.76
+Invoice ID: 778-34-2523 - Total: $408.41 - Tax: $19.45
+Invoice ID: 366-43-6862 - Total: $222.14 - Tax: $10.58
+Invoice ID: 538-22-0304 - Total: $681.98 - Tax: $32.48
+Invoice ID: 416-17-9926 - Total: $779.31 - Tax: $37.11
+Invoice ID: 237-44-6163 - Total: $88.70 - Tax: $4.22
+Invoice ID: 660-29-7083 - Total: $586.64 - Tax: $27.94
+Invoice ID: 291-59-1384 - Total: $63.32 - Tax: $3.02
+Invoice ID: 804-38-3935 - Total: $295.41 - Tax: $14.07
+Invoice ID: 585-90-0249 - Total: $76.92 - Tax: $3.66
+Invoice ID: 866-70-2814 - Total: $554.30 - Tax: $26.40
+Invoice ID: 124-31-1458 - Total: $250.71 - Tax: $11.94
+Invoice ID: 544-55-9589 - Total: $225.02 - Tax: $10.72
+Invoice ID: 608-05-3804 - Total: $41.74 - Tax: $1.99
+Invoice ID: 448-61-3783 - Total: $756.17 - Tax: $36.01
+Invoice ID: 761-49-0439 - Total: $101.64 - Tax: $4.84
+Invoice ID: 884-80-6021 - Total: $771.44 - Tax: $36.74
+Invoice ID: 114-35-5271 - Total: $486.44 - Tax: $23.16
+Invoice ID: 715-20-1673 - Total: $149.00 - Tax: $7.10
+Invoice ID: 811-35-1094 - Total: $317.84 - Tax: $15.14
+Invoice ID: 377-79-7592 - Total: $423.74 - Tax: $20.18
+Invoice ID: 151-27-8496 - Total: $235.75 - Tax: $11.23
+Invoice ID: 717-96-4189 - Total: $223.59 - Tax: $10.65
+Invoice ID: 636-98-3364 - Total: $82.72 - Tax: $3.94
+Invoice ID: 226-34-0034 - Total: $57.88 - Tax: $2.76
+Invoice ID: 431-66-2305 - Total: $833.96 - Tax: $39.71
+Invoice ID: 489-82-1237 - Total: $690.02 - Tax: $32.86
+Invoice ID: 859-97-6048 - Total: $176.93 - Tax: $8.43
+Invoice ID: 430-02-3888 - Total: $289.93 - Tax: $13.81
+Invoice ID: 324-92-3863 - Total: $43.87 - Tax: $2.09
+Invoice ID: 364-34-2972 - Total: $304.98 - Tax: $14.52
+Invoice ID: 172-42-8274 - Total: $80.37 - Tax: $3.83
+Invoice ID: 214-30-2776 - Total: $181.07 - Tax: $8.62
+Invoice ID: 452-04-8808 - Total: $640.04 - Tax: $30.48
+Invoice ID: 156-20-0370 - Total: $26.72 - Tax: $1.27
+Invoice ID: 189-40-5216 - Total: $708.32 - Tax: $33.73
+Invoice ID: 267-62-7380 - Total: $864.57 - Tax: $41.17
+Invoice ID: 745-74-0715 - Total: $121.86 - Tax: $5.80
+Invoice ID: 652-49-6720 - Total: $64.00 - Tax: $3.05
+
+***************Home and lifestyle***************
+
+Invoice ID: 631-41-3108 - Total: $340.53 - Tax: $16.22
+Invoice ID: 315-22-5665 - Total: $772.38 - Tax: $36.78
+Invoice ID: 319-50-3348 - Total: $84.63 - Tax: $4.03
+Invoice ID: 273-16-6619 - Total: $69.72 - Tax: $3.32
+Invoice ID: 227-03-5010 - Total: $441.76 - Tax: $21.04
+Invoice ID: 777-82-7220 - Total: $253.01 - Tax: $12.05
+Invoice ID: 280-35-5823 - Total: $91.06 - Tax: $4.34
+Invoice ID: 554-53-8700 - Total: $117.83 - Tax: $5.61
+Invoice ID: 242-55-6721 - Total: $33.94 - Tax: $1.62
+Invoice ID: 106-35-6779 - Total: $93.11 - Tax: $4.43
+Invoice ID: 817-48-8732 - Total: $759.68 - Tax: $36.18
+Invoice ID: 803-83-5989 - Total: $351.10 - Tax: $16.72
+Invoice ID: 287-21-9091 - Total: $705.63 - Tax: $33.60
+Invoice ID: 565-80-5980 - Total: $199.00 - Tax: $9.48
+Invoice ID: 733-01-9107 - Total: $521.01 - Tax: $24.81
+Invoice ID: 645-44-1170 - Total: $548.76 - Tax: $26.13
+Invoice ID: 237-01-6122 - Total: $763.47 - Tax: $36.36
+Invoice ID: 378-24-2715 - Total: $112.22 - Tax: $5.34
+Invoice ID: 336-78-2147 - Total: $536.84 - Tax: $25.56
+Invoice ID: 668-90-8900 - Total: $688.62 - Tax: $32.79
+Invoice ID: 354-39-5160 - Total: $216.85 - Tax: $10.33
+Invoice ID: 239-10-7476 - Total: $491.09 - Tax: $23.39
+Invoice ID: 262-47-2794 - Total: $603.62 - Tax: $28.74
+Invoice ID: 307-85-2293 - Total: $263.97 - Tax: $12.57
+Invoice ID: 234-65-2137 - Total: $1,003.59 - Tax: $47.79
+Invoice ID: 827-26-2100 - Total: $319.79 - Tax: $15.23
+Invoice ID: 305-14-0245 - Total: $793.72 - Tax: $37.80
+Invoice ID: 732-04-5373 - Total: $195.17 - Tax: $9.29
+Invoice ID: 400-60-7251 - Total: $77.77 - Tax: $3.70
+Invoice ID: 593-65-1552 - Total: $293.20 - Tax: $13.96
+Invoice ID: 284-34-9626 - Total: $242.68 - Tax: $11.56
+Invoice ID: 641-43-2399 - Total: $107.31 - Tax: $5.11
+Invoice ID: 856-22-8149 - Total: $26.55 - Tax: $1.26
+Invoice ID: 394-43-4238 - Total: $93.29 - Tax: $4.44
+Invoice ID: 263-87-5680 - Total: $299.57 - Tax: $14.27
+Invoice ID: 142-63-6033 - Total: $484.89 - Tax: $23.09
+Invoice ID: 802-43-8934 - Total: $19.19 - Tax: $0.91
+Invoice ID: 721-86-6247 - Total: $532.73 - Tax: $25.37
+Invoice ID: 217-58-1179 - Total: $263.13 - Tax: $12.53
+Invoice ID: 376-02-8238 - Total: $788.51 - Tax: $37.55
+Invoice ID: 530-90-9855 - Total: $399.76 - Tax: $19.04
+Invoice ID: 290-68-2984 - Total: $99.75 - Tax: $4.75
+Invoice ID: 704-11-6354 - Total: $494.76 - Tax: $23.56
+Invoice ID: 729-09-9681 - Total: $163.23 - Tax: $7.77
+Invoice ID: 808-65-0703 - Total: $148.97 - Tax: $7.09
+Invoice ID: 144-51-6085 - Total: $297.11 - Tax: $14.15
+Invoice ID: 731-14-2199 - Total: $373.17 - Tax: $17.77
+Invoice ID: 126-54-1082 - Total: $203.55 - Tax: $9.69
+Invoice ID: 633-91-1052 - Total: $25.26 - Tax: $1.20
+Invoice ID: 526-86-8552 - Total: $229.11 - Tax: $10.91
+Invoice ID: 136-08-6195 - Total: $587.66 - Tax: $27.98
+Invoice ID: 523-38-0215 - Total: $38.85 - Tax: $1.85
+Invoice ID: 593-95-4461 - Total: $78.60 - Tax: $3.74
+Invoice ID: 430-60-3493 - Total: $697.37 - Tax: $33.21
+Invoice ID: 744-02-5987 - Total: $493.79 - Tax: $23.51
+Invoice ID: 307-83-9164 - Total: $252.04 - Tax: $12.00
+Invoice ID: 779-06-0012 - Total: $93.04 - Tax: $4.43
+Invoice ID: 803-17-8013 - Total: $745.84 - Tax: $35.52
+Invoice ID: 746-54-5508 - Total: $135.58 - Tax: $6.46
+Invoice ID: 868-81-1752 - Total: $208.09 - Tax: $9.91
+Invoice ID: 725-96-3778 - Total: $749.70 - Tax: $35.70
+Invoice ID: 565-67-6697 - Total: $255.15 - Tax: $12.15
+Invoice ID: 462-67-9126 - Total: $461.29 - Tax: $21.97
+Invoice ID: 468-88-0009 - Total: $276.95 - Tax: $13.19
+Invoice ID: 730-70-9830 - Total: $441.69 - Tax: $21.03
+Invoice ID: 422-29-8786 - Total: $352.22 - Tax: $16.77
+Invoice ID: 843-01-4703 - Total: $334.34 - Tax: $15.92
+Invoice ID: 760-54-1821 - Total: $128.43 - Tax: $6.12
+Invoice ID: 651-61-0874 - Total: $194.12 - Tax: $9.24
+Invoice ID: 236-86-3015 - Total: $14.68 - Tax: $0.70
+Invoice ID: 256-08-8343 - Total: $237.43 - Tax: $11.31
+Invoice ID: 472-15-9636 - Total: $427.81 - Tax: $20.37
+Invoice ID: 750-57-9686 - Total: $190.60 - Tax: $9.08
+Invoice ID: 325-77-6186 - Total: $951.83 - Tax: $45.33
+Invoice ID: 345-08-4992 - Total: $214.14 - Tax: $10.20
+Invoice ID: 138-17-5109 - Total: $843.03 - Tax: $40.14
+Invoice ID: 767-05-1286 - Total: $527.75 - Tax: $25.13
+Invoice ID: 305-18-3552 - Total: $633.99 - Tax: $30.19
+Invoice ID: 556-72-8512 - Total: $24.11 - Tax: $1.15
+Invoice ID: 627-95-3243 - Total: $734.08 - Tax: $34.96
+Invoice ID: 148-82-2527 - Total: $127.26 - Tax: $6.06
+Invoice ID: 620-02-2046 - Total: $145.74 - Tax: $6.94
+Invoice ID: 602-80-9671 - Total: $100.49 - Tax: $4.79
+Invoice ID: 209-61-0206 - Total: $225.28 - Tax: $10.73
+Invoice ID: 521-18-7827 - Total: $206.80 - Tax: $9.85
+Invoice ID: 220-28-1851 - Total: $72.93 - Tax: $3.47
+Invoice ID: 451-28-5717 - Total: $523.97 - Tax: $24.95
+Invoice ID: 609-81-8548 - Total: $235.87 - Tax: $11.23
+Invoice ID: 892-05-6689 - Total: $148.68 - Tax: $7.08
+Invoice ID: 583-41-4548 - Total: $122.52 - Tax: $5.83
+Invoice ID: 643-38-7867 - Total: $102.84 - Tax: $4.90
+Invoice ID: 460-35-4390 - Total: $96.64 - Tax: $4.60
+Invoice ID: 701-23-5550 - Total: $163.00 - Tax: $7.76
+Invoice ID: 356-44-8813 - Total: $118.06 - Tax: $5.62
+Invoice ID: 218-59-9410 - Total: $228.12 - Tax: $10.86
+Invoice ID: 834-83-1826 - Total: $430.71 - Tax: $20.51
+Invoice ID: 788-07-8452 - Total: $178.16 - Tax: $8.48
+Invoice ID: 334-64-2006 - Total: $147.67 - Tax: $7.03
+Invoice ID: 830-58-2383 - Total: $133.35 - Tax: $6.35
+Invoice ID: 670-79-6321 - Total: $695.24 - Tax: $33.11
+Invoice ID: 856-66-2701 - Total: $167.90 - Tax: $8.00
+Invoice ID: 420-04-7590 - Total: $314.06 - Tax: $14.96
+Invoice ID: 706-36-6154 - Total: $182.95 - Tax: $8.71
+Invoice ID: 742-04-5161 - Total: $764.19 - Tax: $36.39
+Invoice ID: 241-96-5076 - Total: $103.11 - Tax: $4.91
+Invoice ID: 648-83-1321 - Total: $667.38 - Tax: $31.78
+Invoice ID: 800-09-8606 - Total: $458.69 - Tax: $21.84
+Invoice ID: 826-58-8051 - Total: $261.20 - Tax: $12.44
+Invoice ID: 751-41-9720 - Total: $1,023.75 - Tax: $48.75
+Invoice ID: 640-48-5028 - Total: $835.29 - Tax: $39.78
+Invoice ID: 728-88-7867 - Total: $317.23 - Tax: $15.11
+Invoice ID: 776-68-1096 - Total: $138.98 - Tax: $6.62
+Invoice ID: 442-44-6497 - Total: $175.05 - Tax: $8.34
+Invoice ID: 299-29-0180 - Total: $383.52 - Tax: $18.26
+Invoice ID: 386-27-7606 - Total: $596.82 - Tax: $28.42
+Invoice ID: 805-86-0265 - Total: $887.92 - Tax: $42.28
+Invoice ID: 733-29-1227 - Total: $408.73 - Tax: $19.46
+Invoice ID: 546-80-2899 - Total: $79.15 - Tax: $3.77
+Invoice ID: 664-14-2882 - Total: $55.28 - Tax: $2.63
+Invoice ID: 487-79-6868 - Total: $116.14 - Tax: $5.53
+Invoice ID: 775-72-1988 - Total: $384.72 - Tax: $18.32
+Invoice ID: 406-46-7107 - Total: $608.08 - Tax: $28.96
+Invoice ID: 593-14-4239 - Total: $801.86 - Tax: $38.18
+Invoice ID: 886-54-6089 - Total: $72.01 - Tax: $3.43
+Invoice ID: 468-99-7231 - Total: $369.68 - Tax: $17.60
+Invoice ID: 744-16-7898 - Total: $1,022.39 - Tax: $48.69
+Invoice ID: 443-60-9639 - Total: $63.91 - Tax: $3.04
+Invoice ID: 401-09-4232 - Total: $455.12 - Tax: $21.67
+Invoice ID: 220-68-6701 - Total: $325.37 - Tax: $15.49
+Invoice ID: 186-43-8965 - Total: $100.13 - Tax: $4.77
+Invoice ID: 427-45-9297 - Total: $299.37 - Tax: $14.26
+Invoice ID: 748-45-2862 - Total: $118.90 - Tax: $5.66
+Invoice ID: 848-95-6252 - Total: $90.58 - Tax: $4.31
+Invoice ID: 152-03-4217 - Total: $106.60 - Tax: $5.08
+Invoice ID: 533-66-5566 - Total: $375.36 - Tax: $17.87
+Invoice ID: 737-88-5876 - Total: $97.82 - Tax: $4.66
+Invoice ID: 154-87-7367 - Total: $548.18 - Tax: $26.10
+Invoice ID: 291-55-6563 - Total: $216.85 - Tax: $10.33
+Invoice ID: 509-10-0516 - Total: $193.07 - Tax: $9.19
+Invoice ID: 118-62-1812 - Total: $329.20 - Tax: $15.68
+Invoice ID: 624-01-8356 - Total: $514.61 - Tax: $24.51
+Invoice ID: 453-33-6436 - Total: $782.21 - Tax: $37.25
+Invoice ID: 777-67-2495 - Total: $217.26 - Tax: $10.35
+Invoice ID: 246-55-6923 - Total: $338.22 - Tax: $16.11
+Invoice ID: 181-82-6255 - Total: $103.13 - Tax: $4.91
+Invoice ID: 838-02-1821 - Total: $26.73 - Tax: $1.27
+Invoice ID: 641-62-7288 - Total: $629.50 - Tax: $29.98
+Invoice ID: 501-61-1753 - Total: $397.85 - Tax: $18.95
+Invoice ID: 235-06-8510 - Total: $270.02 - Tax: $12.86
+Invoice ID: 809-69-9497 - Total: $479.64 - Tax: $22.84
+Invoice ID: 373-88-1424 - Total: $188.00 - Tax: $8.95
+Invoice ID: 305-89-2768 - Total: $68.99 - Tax: $3.29
+Invoice ID: 200-40-6154 - Total: $415.23 - Tax: $19.77
+Invoice ID: 867-47-1948 - Total: $165.90 - Tax: $7.90
+Invoice ID: 558-60-5016 - Total: $314.69 - Tax: $14.99
+Invoice ID: 195-06-0432 - Total: $255.18 - Tax: $12.15
+Invoice ID: 448-34-8700 - Total: $271.29 - Tax: $12.92
+Invoice ID: 531-56-4728 - Total: $252.25 - Tax: $12.01
+Invoice ID: 303-96-2227 - Total: $1,022.49 - Tax: $48.69
+Invoice ID: 347-56-2442 - Total: $69.11 - Tax: $3.29
+
+***************Sports and travel***************
+
+Invoice ID: 373-73-7910 - Total: $634.38 - Tax: $30.21
+Invoice ID: 299-46-1805 - Total: $590.44 - Tax: $28.12
+Invoice ID: 765-26-6951 - Total: $457.44 - Tax: $21.78
+Invoice ID: 549-59-1358 - Total: $279.18 - Tax: $13.29
+Invoice ID: 149-71-6266 - Total: $737.76 - Tax: $35.13
+Invoice ID: 640-49-2076 - Total: $703.75 - Tax: $33.51
+Invoice ID: 232-16-2483 - Total: $71.53 - Tax: $3.41
+Invoice ID: 129-29-8530 - Total: $328.76 - Tax: $15.66
+Invoice ID: 354-25-5821 - Total: $435.46 - Tax: $20.74
+Invoice ID: 285-68-5083 - Total: $77.93 - Tax: $3.71
+Invoice ID: 347-34-2234 - Total: $520.41 - Tax: $24.78
+Invoice ID: 199-75-8169 - Total: $166.01 - Tax: $7.91
+Invoice ID: 232-11-3025 - Total: $827.09 - Tax: $39.39
+Invoice ID: 360-39-5055 - Total: $256.78 - Tax: $12.23
+Invoice ID: 730-50-9884 - Total: $610.49 - Tax: $29.07
+Invoice ID: 504-35-8843 - Total: $44.59 - Tax: $2.12
+Invoice ID: 225-32-0908 - Total: $471.03 - Tax: $22.43
+Invoice ID: 873-51-0671 - Total: $161.55 - Tax: $7.69
+Invoice ID: 630-74-5166 - Total: $391.42 - Tax: $18.64
+Invoice ID: 479-26-8945 - Total: $34.63 - Tax: $1.65
+Invoice ID: 659-36-1684 - Total: $419.83 - Tax: $19.99
+Invoice ID: 219-22-9386 - Total: $944.62 - Tax: $44.98
+Invoice ID: 870-54-3162 - Total: $169.31 - Tax: $8.06
+Invoice ID: 549-84-7482 - Total: $853.15 - Tax: $40.63
+Invoice ID: 802-70-5316 - Total: $580.42 - Tax: $27.64
+Invoice ID: 695-51-0018 - Total: $146.33 - Tax: $6.97
+Invoice ID: 241-72-9525 - Total: $545.06 - Tax: $25.96
+Invoice ID: 575-30-8091 - Total: $609.00 - Tax: $29.00
+Invoice ID: 731-81-9469 - Total: $942.90 - Tax: $44.90
+Invoice ID: 584-86-7256 - Total: $254.02 - Tax: $12.10
+Invoice ID: 400-89-4171 - Total: $680.15 - Tax: $32.39
+Invoice ID: 423-57-2993 - Total: $588.36 - Tax: $28.02
+Invoice ID: 275-28-0149 - Total: $66.87 - Tax: $3.18
+Invoice ID: 423-80-0988 - Total: $160.44 - Tax: $7.64
+Invoice ID: 105-31-1824 - Total: $510.97 - Tax: $24.33
+Invoice ID: 851-28-6367 - Total: $162.75 - Tax: $7.75
+Invoice ID: 586-25-0848 - Total: $90.70 - Tax: $4.32
+Invoice ID: 606-80-4905 - Total: $120.65 - Tax: $5.75
+Invoice ID: 656-16-1063 - Total: $146.22 - Tax: $6.96
+Invoice ID: 891-58-8335 - Total: $217.63 - Tax: $10.36
+Invoice ID: 560-30-5617 - Total: $130.04 - Tax: $6.19
+Invoice ID: 746-68-6593 - Total: $183.04 - Tax: $8.72
+Invoice ID: 645-78-8093 - Total: $195.59 - Tax: $9.31
+Invoice ID: 883-17-4236 - Total: $30.22 - Tax: $1.44
+Invoice ID: 447-15-7839 - Total: $233.52 - Tax: $11.12
+Invoice ID: 154-74-7179 - Total: $57.17 - Tax: $2.72
+Invoice ID: 253-12-6086 - Total: $723.24 - Tax: $34.44
+Invoice ID: 783-09-1637 - Total: $354.01 - Tax: $16.86
+Invoice ID: 828-61-5674 - Total: $462.21 - Tax: $22.01
+Invoice ID: 490-29-1201 - Total: $16.11 - Tax: $0.77
+Invoice ID: 226-71-3580 - Total: $224.44 - Tax: $10.69
+Invoice ID: 286-01-5402 - Total: $295.69 - Tax: $14.08
+Invoice ID: 532-59-7201 - Total: $503.56 - Tax: $23.98
+Invoice ID: 276-54-0879 - Total: $410.51 - Tax: $19.55
+Invoice ID: 835-16-0096 - Total: $77.18 - Tax: $3.68
+Invoice ID: 692-27-8933 - Total: $365.09 - Tax: $17.39
+Invoice ID: 150-89-8043 - Total: $140.65 - Tax: $6.70
+Invoice ID: 554-42-2417 - Total: $1,002.12 - Tax: $47.72
+Invoice ID: 578-80-7669 - Total: $78.72 - Tax: $3.75
+Invoice ID: 613-59-9758 - Total: $150.78 - Tax: $7.18
+Invoice ID: 743-88-1662 - Total: $701.85 - Tax: $33.42
+Invoice ID: 289-15-7034 - Total: $345.79 - Tax: $16.47
+Invoice ID: 525-88-7307 - Total: $79.61 - Tax: $3.79
+Invoice ID: 308-47-4913 - Total: $548.73 - Tax: $26.13
+Invoice ID: 882-40-4577 - Total: $282.49 - Tax: $13.45
+Invoice ID: 569-71-4390 - Total: $45.93 - Tax: $2.19
+Invoice ID: 696-90-2548 - Total: $81.40 - Tax: $3.88
+Invoice ID: 741-73-3559 - Total: $353.17 - Tax: $16.82
+Invoice ID: 751-69-0068 - Total: $937.82 - Tax: $44.66
+Invoice ID: 257-73-1380 - Total: $348.31 - Tax: $16.59
+Invoice ID: 394-30-3170 - Total: $742.81 - Tax: $35.37
+Invoice ID: 301-11-9629 - Total: $140.39 - Tax: $6.69
+Invoice ID: 449-27-2918 - Total: $41.08 - Tax: $1.96
+Invoice ID: 326-71-2155 - Total: $310.59 - Tax: $14.79
+Invoice ID: 878-30-2331 - Total: $572.78 - Tax: $27.28
+Invoice ID: 554-53-3790 - Total: $233.23 - Tax: $11.11
+Invoice ID: 340-21-9136 - Total: $168.21 - Tax: $8.01
+Invoice ID: 485-30-8700 - Total: $174.62 - Tax: $8.32
+Invoice ID: 701-69-8742 - Total: $360.89 - Tax: $17.19
+Invoice ID: 674-15-9296 - Total: $194.99 - Tax: $9.29
+Invoice ID: 493-65-6248 - Total: $388.29 - Tax: $18.49
+Invoice ID: 438-01-4015 - Total: $207.86 - Tax: $9.90
+Invoice ID: 632-32-4574 - Total: $637.73 - Tax: $30.37
+Invoice ID: 401-18-8016 - Total: $103.04 - Tax: $4.91
+Invoice ID: 420-18-8989 - Total: $432.77 - Tax: $20.61
+Invoice ID: 277-63-2961 - Total: $77.67 - Tax: $3.70
+Invoice ID: 282-35-2475 - Total: $195.95 - Tax: $9.33
+Invoice ID: 511-54-3087 - Total: $92.87 - Tax: $4.42
+Invoice ID: 387-49-4215 - Total: $152.78 - Tax: $7.28
+Invoice ID: 347-72-6115 - Total: $666.94 - Tax: $31.76
+Invoice ID: 503-07-0930 - Total: $429.17 - Tax: $20.44
+Invoice ID: 600-38-9738 - Total: $377.58 - Tax: $17.98
+Invoice ID: 719-89-8991 - Total: $479.90 - Tax: $22.85
+Invoice ID: 827-77-7633 - Total: $926.95 - Tax: $44.14
+Invoice ID: 173-50-1108 - Total: $84.76 - Tax: $4.04
+Invoice ID: 541-48-8554 - Total: $575.98 - Tax: $27.43
+Invoice ID: 539-21-7227 - Total: $270.59 - Tax: $12.89
+Invoice ID: 718-57-9773 - Total: $517.97 - Tax: $24.67
+Invoice ID: 408-26-9866 - Total: $543.75 - Tax: $25.89
+Invoice ID: 343-61-3544 - Total: $280.04 - Tax: $13.34
+Invoice ID: 550-84-8664 - Total: $451.03 - Tax: $21.48
+Invoice ID: 375-72-3056 - Total: $198.64 - Tax: $9.46
+Invoice ID: 695-28-6250 - Total: $226.07 - Tax: $10.77
+Invoice ID: 560-49-6611 - Total: $47.86 - Tax: $2.28
+Invoice ID: 880-35-0356 - Total: $236.88 - Tax: $11.28
+Invoice ID: 585-11-6748 - Total: $304.92 - Tax: $14.52
+Invoice ID: 123-35-4896 - Total: $440.94 - Tax: $21.00
+Invoice ID: 642-30-6693 - Total: $343.41 - Tax: $16.35
+Invoice ID: 284-54-4231 - Total: $84.98 - Tax: $4.05
+Invoice ID: 509-29-3912 - Total: $365.90 - Tax: $17.42
+Invoice ID: 327-40-9673 - Total: $457.38 - Tax: $21.78
+Invoice ID: 816-57-2053 - Total: $127.83 - Tax: $6.09
+Invoice ID: 149-61-1929 - Total: $674.00 - Tax: $32.10
+Invoice ID: 859-71-0933 - Total: $32.53 - Tax: $1.55
+Invoice ID: 149-15-7606 - Total: $352.67 - Tax: $16.79
+Invoice ID: 816-72-8853 - Total: $146.63 - Tax: $6.98
+Invoice ID: 322-02-2271 - Total: $135.36 - Tax: $6.45
+Invoice ID: 842-29-4695 - Total: $125.98 - Tax: $6.00
+Invoice ID: 714-02-3114 - Total: $207.48 - Tax: $9.88
+Invoice ID: 679-22-6530 - Total: $85.30 - Tax: $4.06
+Invoice ID: 752-23-3760 - Total: $470.99 - Tax: $22.43
+Invoice ID: 320-85-2052 - Total: $36.55 - Tax: $1.74
+Invoice ID: 510-79-0415 - Total: $145.40 - Tax: $6.92
+Invoice ID: 767-97-4650 - Total: $136.14 - Tax: $6.48
+Invoice ID: 173-57-2300 - Total: $153.05 - Tax: $7.29
+Invoice ID: 394-55-6384 - Total: $663.30 - Tax: $31.59
+Invoice ID: 182-52-7000 - Total: $113.57 - Tax: $5.41
+Invoice ID: 445-30-9252 - Total: $80.96 - Tax: $3.86
+Invoice ID: 678-79-0726 - Total: $856.45 - Tax: $40.78
+Invoice ID: 174-64-0215 - Total: $732.27 - Tax: $34.87
+Invoice ID: 373-14-0504 - Total: $150.42 - Tax: $7.16
+Invoice ID: 345-68-9016 - Total: $266.03 - Tax: $12.67
+Invoice ID: 388-76-2555 - Total: $86.25 - Tax: $4.11
+Invoice ID: 707-32-7409 - Total: $401.27 - Tax: $19.11
+Invoice ID: 201-63-8275 - Total: $499.73 - Tax: $23.80
+Invoice ID: 875-31-8302 - Total: $98.05 - Tax: $4.67
+Invoice ID: 102-06-2002 - Total: $132.56 - Tax: $6.31
+Invoice ID: 534-53-3526 - Total: $397.99 - Tax: $18.95
+Invoice ID: 497-37-6538 - Total: $432.99 - Tax: $20.62
+Invoice ID: 864-24-7918 - Total: $257.15 - Tax: $12.25
+Invoice ID: 751-15-6198 - Total: $144.96 - Tax: $6.90
+Invoice ID: 618-34-8551 - Total: $195.68 - Tax: $9.32
+Invoice ID: 815-04-6282 - Total: $341.09 - Tax: $16.24
+Invoice ID: 784-21-9238 - Total: $10.68 - Tax: $0.51
+Invoice ID: 109-86-4363 - Total: $441.59 - Tax: $21.03
+Invoice ID: 569-76-2760 - Total: $92.44 - Tax: $4.40
+Invoice ID: 343-75-9322 - Total: $99.54 - Tax: $4.74
+Invoice ID: 670-71-7306 - Total: $281.17 - Tax: $13.39
+Invoice ID: 271-77-8740 - Total: $184.09 - Tax: $8.77
+Invoice ID: 860-73-6466 - Total: $82.89 - Tax: $3.95
+Invoice ID: 862-29-5914 - Total: $23.50 - Tax: $1.12
+Invoice ID: 840-76-5966 - Total: $26.80 - Tax: $1.28
+Invoice ID: 361-59-0574 - Total: $760.45 - Tax: $36.21
+Invoice ID: 852-82-2749 - Total: $271.28 - Tax: $12.92
+Invoice ID: 166-19-2553 - Total: $561.08 - Tax: $26.72
+Invoice ID: 311-13-6971 - Total: $335.90 - Tax: $16.00
+Invoice ID: 460-93-5834 - Total: $335.01 - Tax: $15.95
+Invoice ID: 880-46-5796 - Total: $807.66 - Tax: $38.46
+Invoice ID: 722-13-2115 - Total: $44.99 - Tax: $2.14
+Invoice ID: 887-42-0517 - Total: $611.08 - Tax: $29.10
+Invoice ID: 457-12-0244 - Total: $221.89 - Tax: $10.57
+Invoice ID: 321-49-7382 - Total: $92.73 - Tax: $4.42
+Invoice ID: 825-94-5922 - Total: $53.15 - Tax: $2.53
+Invoice ID: 361-85-2571 - Total: $469.77 - Tax: $22.37
+Invoice ID: 139-32-4183 - Total: $921.19 - Tax: $43.87
+Invoice ID: 602-16-6955 - Total: $804.30 - Tax: $38.30
+
+***************Food and beverages***************
+
+Invoice ID: 692-92-5582 - Total: $172.75 - Tax: $8.23
+Invoice ID: 252-56-2699 - Total: $453.50 - Tax: $21.60
+Invoice ID: 329-62-1586 - Total: $172.21 - Tax: $8.20
+Invoice ID: 145-94-9061 - Total: $463.89 - Tax: $22.09
+Invoice ID: 183-56-6882 - Total: $417.56 - Tax: $19.88
+Invoice ID: 228-96-1411 - Total: $829.08 - Tax: $39.48
+Invoice ID: 727-46-3608 - Total: $189.09 - Tax: $9.00
+Invoice ID: 326-78-5178 - Total: $671.79 - Tax: $31.99
+Invoice ID: 162-48-8011 - Total: $234.10 - Tax: $11.15
+Invoice ID: 393-65-2792 - Total: $939.54 - Tax: $44.74
+Invoice ID: 510-95-6347 - Total: $152.84 - Tax: $7.28
+Invoice ID: 829-49-1914 - Total: $822.26 - Tax: $39.16
+Invoice ID: 847-38-7188 - Total: $304.54 - Tax: $14.50
+Invoice ID: 480-63-2856 - Total: $161.70 - Tax: $7.70
+Invoice ID: 787-56-0757 - Total: $337.51 - Tax: $16.07
+Invoice ID: 633-44-8566 - Total: $362.94 - Tax: $17.28
+Invoice ID: 865-92-6136 - Total: $166.16 - Tax: $7.91
+Invoice ID: 212-62-1842 - Total: $367.04 - Tax: $17.48
+Invoice ID: 588-01-7461 - Total: $321.11 - Tax: $15.29
+Invoice ID: 642-32-2990 - Total: $115.08 - Tax: $5.48
+Invoice ID: 663-86-9076 - Total: $575.74 - Tax: $27.42
+Invoice ID: 488-25-4221 - Total: $31.93 - Tax: $1.52
+Invoice ID: 214-17-6927 - Total: $103.82 - Tax: $4.94
+Invoice ID: 782-95-9291 - Total: $484.52 - Tax: $23.07
+Invoice ID: 894-41-5205 - Total: $362.71 - Tax: $17.27
+Invoice ID: 101-17-6199 - Total: $336.56 - Tax: $16.03
+Invoice ID: 548-46-9322 - Total: $418.95 - Tax: $19.95
+Invoice ID: 796-32-9050 - Total: $323.06 - Tax: $15.38
+Invoice ID: 316-55-4634 - Total: $420.26 - Tax: $20.01
+Invoice ID: 414-12-7047 - Total: $166.24 - Tax: $7.92
+Invoice ID: 175-54-2529 - Total: $186.23 - Tax: $8.87
+Invoice ID: 407-63-8975 - Total: $465.44 - Tax: $22.16
+Invoice ID: 434-83-9547 - Total: $323.15 - Tax: $15.39
+Invoice ID: 895-66-0685 - Total: $56.95 - Tax: $2.71
+Invoice ID: 286-43-6208 - Total: $829.71 - Tax: $39.51
+Invoice ID: 420-11-4919 - Total: $374.80 - Tax: $17.85
+Invoice ID: 677-11-0152 - Total: $881.31 - Tax: $41.97
+Invoice ID: 790-29-1172 - Total: $180.62 - Tax: $8.60
+Invoice ID: 468-01-2051 - Total: $456.29 - Tax: $21.73
+Invoice ID: 213-72-6612 - Total: $90.83 - Tax: $4.33
+Invoice ID: 540-11-4336 - Total: $235.68 - Tax: $11.22
+Invoice ID: 785-13-7708 - Total: $536.99 - Tax: $25.57
+Invoice ID: 845-51-0542 - Total: $439.90 - Tax: $20.95
+Invoice ID: 571-94-0759 - Total: $783.30 - Tax: $37.30
+Invoice ID: 283-79-9594 - Total: $356.55 - Tax: $16.98
+Invoice ID: 316-68-6352 - Total: $76.36 - Tax: $3.64
+Invoice ID: 735-06-4124 - Total: $51.04 - Tax: $2.43
+Invoice ID: 870-76-1733 - Total: $74.71 - Tax: $3.56
+Invoice ID: 174-36-3675 - Total: $208.68 - Tax: $9.94
+Invoice ID: 428-83-5800 - Total: $66.40 - Tax: $3.16
+Invoice ID: 649-11-3678 - Total: $216.69 - Tax: $10.32
+Invoice ID: 815-11-1168 - Total: $523.85 - Tax: $24.95
+Invoice ID: 719-76-3868 - Total: $395.89 - Tax: $18.85
+Invoice ID: 634-97-8956 - Total: $103.64 - Tax: $4.94
+Invoice ID: 442-48-3607 - Total: $49.31 - Tax: $2.35
+Invoice ID: 374-17-3652 - Total: $404.65 - Tax: $19.27
+Invoice ID: 416-13-5917 - Total: $509.41 - Tax: $24.26
+Invoice ID: 889-04-9723 - Total: $374.39 - Tax: $17.83
+Invoice ID: 612-36-5536 - Total: $680.06 - Tax: $32.38
+Invoice ID: 605-72-4132 - Total: $793.55 - Tax: $37.79
+Invoice ID: 471-41-2823 - Total: $209.56 - Tax: $9.98
+Invoice ID: 272-27-9238 - Total: $173.21 - Tax: $8.25
+Invoice ID: 868-52-7573 - Total: $523.37 - Tax: $24.92
+Invoice ID: 153-58-4872 - Total: $314.54 - Tax: $14.98
+Invoice ID: 662-72-2873 - Total: $214.94 - Tax: $10.24
+Invoice ID: 689-16-9784 - Total: $294.65 - Tax: $14.03
+Invoice ID: 596-42-3999 - Total: $133.92 - Tax: $6.38
+Invoice ID: 316-01-3952 - Total: $284.92 - Tax: $13.57
+Invoice ID: 110-05-6330 - Total: $248.41 - Tax: $11.83
+Invoice ID: 732-67-5346 - Total: $72.40 - Tax: $3.45
+Invoice ID: 266-76-6436 - Total: $121.59 - Tax: $5.79
+Invoice ID: 650-98-6268 - Total: $65.74 - Tax: $3.13
+Invoice ID: 574-57-9721 - Total: $90.87 - Tax: $4.33
+Invoice ID: 549-96-4200 - Total: $71.57 - Tax: $3.41
+Invoice ID: 450-28-2866 - Total: $91.56 - Tax: $4.36
+Invoice ID: 235-46-8343 - Total: $290.43 - Tax: $13.83
+Invoice ID: 727-17-0390 - Total: $333.95 - Tax: $15.90
+Invoice ID: 710-46-4433 - Total: $731.43 - Tax: $34.83
+Invoice ID: 729-46-7422 - Total: $37.68 - Tax: $1.79
+Invoice ID: 639-76-1242 - Total: $212.73 - Tax: $10.13
+Invoice ID: 234-03-4040 - Total: $767.03 - Tax: $36.53
+Invoice ID: 320-32-8842 - Total: $23.75 - Tax: $1.13
+Invoice ID: 470-32-9057 - Total: $269.54 - Tax: $12.84
+Invoice ID: 746-19-0921 - Total: $22.66 - Tax: $1.08
+Invoice ID: 541-08-3113 - Total: $554.15 - Tax: $26.39
+Invoice ID: 862-59-8517 - Total: $568.51 - Tax: $27.07
+Invoice ID: 862-17-9201 - Total: $529.52 - Tax: $25.22
+Invoice ID: 534-01-4457 - Total: $514.77 - Tax: $24.51
+Invoice ID: 827-44-5872 - Total: $570.78 - Tax: $27.18
+Invoice ID: 236-27-1144 - Total: $154.13 - Tax: $7.34
+Invoice ID: 358-88-9262 - Total: $551.12 - Tax: $26.24
+Invoice ID: 841-18-8232 - Total: $74.76 - Tax: $3.56
+Invoice ID: 283-26-5248 - Total: $1,034.46 - Tax: $49.26
+Invoice ID: 712-39-0363 - Total: $262.46 - Tax: $12.50
+Invoice ID: 866-99-7614 - Total: $936.60 - Tax: $44.60
+Invoice ID: 698-98-5964 - Total: $852.71 - Tax: $40.61
+Invoice ID: 239-48-4278 - Total: $74.46 - Tax: $3.55
+Invoice ID: 355-34-6244 - Total: $152.02 - Tax: $7.24
+Invoice ID: 458-61-0011 - Total: $253.26 - Tax: $12.06
+Invoice ID: 592-34-6155 - Total: $133.43 - Tax: $6.35
+Invoice ID: 390-31-6381 - Total: $85.74 - Tax: $4.08
+Invoice ID: 278-86-2735 - Total: $164.87 - Tax: $7.85
+Invoice ID: 152-68-2907 - Total: $164.43 - Tax: $7.83
+Invoice ID: 373-09-4567 - Total: $814.38 - Tax: $38.78
+Invoice ID: 544-32-5024 - Total: $209.12 - Tax: $9.96
+Invoice ID: 349-97-8902 - Total: $121.57 - Tax: $5.79
+Invoice ID: 277-35-5865 - Total: $935.27 - Tax: $44.54
+Invoice ID: 443-59-0061 - Total: $708.23 - Tax: $33.73
+Invoice ID: 828-46-6863 - Total: $620.74 - Tax: $29.56
+Invoice ID: 420-97-3340 - Total: $225.79 - Tax: $10.75
+Invoice ID: 436-54-4512 - Total: $96.19 - Tax: $4.58
+Invoice ID: 135-13-8269 - Total: $165.65 - Tax: $7.89
+Invoice ID: 589-02-8023 - Total: $175.92 - Tax: $8.38
+Invoice ID: 182-88-2763 - Total: $251.72 - Tax: $11.99
+Invoice ID: 364-33-8584 - Total: $92.56 - Tax: $4.41
+Invoice ID: 695-09-5146 - Total: $311.19 - Tax: $14.82
+Invoice ID: 131-15-8856 - Total: $609.17 - Tax: $29.01
+Invoice ID: 641-51-2661 - Total: $914.55 - Tax: $43.55
+Invoice ID: 779-42-2410 - Total: $181.88 - Tax: $8.66
+Invoice ID: 642-61-4706 - Total: $196.14 - Tax: $9.34
+Invoice ID: 274-05-5470 - Total: $308.57 - Tax: $14.69
+Invoice ID: 130-67-4723 - Total: $305.55 - Tax: $14.55
+Invoice ID: 305-03-2383 - Total: $211.37 - Tax: $10.07
+Invoice ID: 266-20-6657 - Total: $404.54 - Tax: $19.26
+Invoice ID: 372-62-5264 - Total: $497.07 - Tax: $23.67
+Invoice ID: 176-64-7711 - Total: $101.81 - Tax: $4.85
+Invoice ID: 162-65-8559 - Total: $72.43 - Tax: $3.45
+Invoice ID: 786-94-2700 - Total: $507.91 - Tax: $24.19
+Invoice ID: 592-46-1692 - Total: $270.26 - Tax: $12.87
+Invoice ID: 434-35-9162 - Total: $98.03 - Tax: $4.67
+Invoice ID: 238-45-6950 - Total: $56.41 - Tax: $2.69
+Invoice ID: 451-73-2711 - Total: $89.07 - Tax: $4.24
+Invoice ID: 390-17-5806 - Total: $40.34 - Tax: $1.92
+Invoice ID: 585-86-8361 - Total: $143.22 - Tax: $6.82
+Invoice ID: 250-17-5703 - Total: $197.93 - Tax: $9.43
+Invoice ID: 156-95-3964 - Total: $232.64 - Tax: $11.08
+Invoice ID: 842-40-8179 - Total: $810.60 - Tax: $38.60
+Invoice ID: 471-06-8611 - Total: $55.04 - Tax: $2.62
+Invoice ID: 200-16-5952 - Total: $137.87 - Tax: $6.57
+Invoice ID: 120-54-2248 - Total: $151.52 - Tax: $7.22
+Invoice ID: 499-27-7781 - Total: $446.96 - Tax: $21.28
+Invoice ID: 832-51-6761 - Total: $284.59 - Tax: $13.55
+Invoice ID: 190-59-3964 - Total: $247.59 - Tax: $11.79
+Invoice ID: 549-23-9016 - Total: $31.23 - Tax: $1.49
+Invoice ID: 845-94-6841 - Total: $688.72 - Tax: $32.80
+Invoice ID: 770-42-8960 - Total: $177.41 - Tax: $8.45
+Invoice ID: 316-66-3011 - Total: $450.10 - Tax: $21.43
+Invoice ID: 631-34-1880 - Total: $76.58 - Tax: $3.65
+Invoice ID: 873-14-6353 - Total: $182.43 - Tax: $8.69
+Invoice ID: 490-95-0021 - Total: $348.71 - Tax: $16.61
+Invoice ID: 548-48-3156 - Total: $175.01 - Tax: $8.33
+Invoice ID: 325-89-4209 - Total: $92.30 - Tax: $4.40
+Invoice ID: 409-49-6995 - Total: $297.80 - Tax: $14.18
+Invoice ID: 146-09-5432 - Total: $331.13 - Tax: $15.77
+Invoice ID: 865-41-9075 - Total: $84.75 - Tax: $4.04
+Invoice ID: 186-71-5196 - Total: $167.03 - Tax: $7.95
+Invoice ID: 313-66-9943 - Total: $91.82 - Tax: $4.37
+Invoice ID: 459-45-2396 - Total: $313.74 - Tax: $14.94
+Invoice ID: 243-55-8457 - Total: $781.62 - Tax: $37.22
+Invoice ID: 500-02-2261 - Total: $360.93 - Tax: $17.19
+Invoice ID: 720-72-2436 - Total: $279.38 - Tax: $13.30
+Invoice ID: 365-16-4334 - Total: $222.01 - Tax: $10.57
+Invoice ID: 574-80-1489 - Total: $263.97 - Tax: $12.57
+Invoice ID: 784-08-0310 - Total: $88.37 - Tax: $4.21
+Invoice ID: 577-34-7579 - Total: $477.13 - Tax: $22.72
+Invoice ID: 384-59-6655 - Total: $932.34 - Tax: $44.40
+Invoice ID: 794-42-3736 - Total: $69.99 - Tax: $3.33
+Invoice ID: 746-04-1077 - Total: $888.62 - Tax: $42.32
+Invoice ID: 221-25-5073 - Total: $313.57 - Tax: $14.93
+Invoice ID: 518-71-6847 - Total: $167.58 - Tax: $7.98
+Invoice ID: 151-33-7434 - Total: $71.16 - Tax: $3.39
+Invoice ID: 728-47-9078 - Total: $250.28 - Tax: $11.92
+Invoice ID: 886-18-2897 - Total: $296.94 - Tax: $14.14
+Invoice ID: 727-02-1313 - Total: $33.43 - Tax: $1.59
+
+***************Fashion accessories***************
+
+Invoice ID: 351-62-0822 - Total: $60.82 - Tax: $2.90
+Invoice ID: 649-29-6775 - Total: $35.20 - Tax: $1.68
+Invoice ID: 189-17-4241 - Total: $184.11 - Tax: $8.77
+Invoice ID: 871-79-8483 - Total: $494.18 - Tax: $23.53
+Invoice ID: 574-22-5561 - Total: $867.62 - Tax: $41.32
+Invoice ID: 616-24-2851 - Total: $75.05 - Tax: $3.57
+Invoice ID: 778-71-5554 - Total: $16.20 - Tax: $0.77
+Invoice ID: 109-28-2512 - Total: $614.94 - Tax: $29.28
+Invoice ID: 796-12-2025 - Total: $652.26 - Tax: $31.06
+Invoice ID: 263-10-3913 - Total: $463.43 - Tax: $22.07
+Invoice ID: 381-20-0914 - Total: $189.09 - Tax: $9.00
+Invoice ID: 362-58-8315 - Total: $401.73 - Tax: $19.13
+Invoice ID: 163-56-7055 - Total: $51.15 - Tax: $2.44
+Invoice ID: 189-98-2939 - Total: $742.30 - Tax: $35.35
+Invoice ID: 628-34-3388 - Total: $172.49 - Tax: $8.21
+Invoice ID: 227-78-1148 - Total: $535.37 - Tax: $25.49
+Invoice ID: 225-98-1496 - Total: $85.11 - Tax: $4.05
+Invoice ID: 291-32-1427 - Total: $115.19 - Tax: $5.49
+Invoice ID: 659-65-8956 - Total: $53.93 - Tax: $2.57
+Invoice ID: 268-27-6179 - Total: $474.35 - Tax: $22.59
+Invoice ID: 189-08-9157 - Total: $299.85 - Tax: $14.28
+Invoice ID: 191-10-6171 - Total: $291.21 - Tax: $13.87
+Invoice ID: 597-78-7908 - Total: $284.19 - Tax: $13.53
+Invoice ID: 685-64-1609 - Total: $316.47 - Tax: $15.07
+Invoice ID: 608-96-3517 - Total: $384.47 - Tax: $18.31
+Invoice ID: 746-94-0204 - Total: $786.62 - Tax: $37.46
+Invoice ID: 687-47-8271 - Total: $1,039.29 - Tax: $49.49
+Invoice ID: 139-52-2867 - Total: $165.45 - Tax: $7.88
+Invoice ID: 130-98-8941 - Total: $472.31 - Tax: $22.49
+Invoice ID: 437-58-8131 - Total: $154.39 - Tax: $7.35
+Invoice ID: 556-86-3144 - Total: $78.00 - Tax: $3.71
+Invoice ID: 573-58-9734 - Total: $95.67 - Tax: $4.56
+Invoice ID: 549-03-9315 - Total: $796.91 - Tax: $37.95
+Invoice ID: 279-62-1445 - Total: $13.17 - Tax: $0.63
+Invoice ID: 289-65-5721 - Total: $170.88 - Tax: $8.14
+Invoice ID: 269-04-5750 - Total: $310.04 - Tax: $14.76
+Invoice ID: 755-12-3214 - Total: $232.16 - Tax: $11.06
+Invoice ID: 478-06-7835 - Total: $94.17 - Tax: $4.48
+Invoice ID: 142-72-4741 - Total: $195.72 - Tax: $9.32
+Invoice ID: 604-70-6476 - Total: $94.19 - Tax: $4.49
+Invoice ID: 662-47-5456 - Total: $369.50 - Tax: $17.60
+Invoice ID: 110-48-7033 - Total: $137.00 - Tax: $6.52
+Invoice ID: 821-07-3596 - Total: $69.09 - Tax: $3.29
+Invoice ID: 655-85-5130 - Total: $160.86 - Tax: $7.66
+Invoice ID: 566-19-5475 - Total: $352.58 - Tax: $16.79
+Invoice ID: 376-56-3573 - Total: $400.76 - Tax: $19.08
+Invoice ID: 537-72-0426 - Total: $745.40 - Tax: $35.50
+Invoice ID: 446-47-6729 - Total: $209.62 - Tax: $9.98
+Invoice ID: 848-42-2560 - Total: $172.01 - Tax: $8.19
+Invoice ID: 181-94-6432 - Total: $145.59 - Tax: $6.93
+Invoice ID: 563-91-7120 - Total: $324.29 - Tax: $15.44
+Invoice ID: 566-71-1091 - Total: $404.36 - Tax: $19.26
+Invoice ID: 898-04-2717 - Total: $721.98 - Tax: $34.38
+Invoice ID: 135-84-8019 - Total: $736.44 - Tax: $35.07
+Invoice ID: 860-79-0874 - Total: $1,042.65 - Tax: $49.65
+Invoice ID: 115-99-4379 - Total: $402.27 - Tax: $19.16
+Invoice ID: 632-90-0281 - Total: $394.28 - Tax: $18.78
+Invoice ID: 834-25-9262 - Total: $343.06 - Tax: $16.34
+Invoice ID: 261-12-8671 - Total: $128.02 - Tax: $6.10
+Invoice ID: 382-25-8917 - Total: $265.10 - Tax: $12.62
+Invoice ID: 667-23-5919 - Total: $507.68 - Tax: $24.18
+Invoice ID: 595-86-2894 - Total: $407.32 - Tax: $19.40
+Invoice ID: 394-41-0748 - Total: $510.96 - Tax: $24.33
+Invoice ID: 541-89-9860 - Total: $253.51 - Tax: $12.07
+Invoice ID: 173-82-9529 - Total: $398.48 - Tax: $18.98
+Invoice ID: 831-64-0259 - Total: $208.69 - Tax: $9.94
+Invoice ID: 587-03-7455 - Total: $718.76 - Tax: $34.23
+Invoice ID: 725-32-9708 - Total: $288.58 - Tax: $13.74
+Invoice ID: 372-26-1506 - Total: $125.06 - Tax: $5.96
+Invoice ID: 271-88-8734 - Total: $1,020.71 - Tax: $48.61
+Invoice ID: 301-81-8610 - Total: $213.53 - Tax: $10.17
+Invoice ID: 489-64-4354 - Total: $17.09 - Tax: $0.81
+Invoice ID: 198-84-7132 - Total: $383.76 - Tax: $18.27
+Invoice ID: 286-75-7818 - Total: $145.07 - Tax: $6.91
+Invoice ID: 616-87-0016 - Total: $702.22 - Tax: $33.44
+Invoice ID: 837-55-7229 - Total: $49.81 - Tax: $2.37
+Invoice ID: 192-98-7397 - Total: $13.42 - Tax: $0.64
+Invoice ID: 453-12-7053 - Total: $144.08 - Tax: $6.86
+Invoice ID: 767-54-1907 - Total: $155.19 - Tax: $7.39
+Invoice ID: 405-31-3305 - Total: $452.87 - Tax: $21.57
+Invoice ID: 709-58-4068 - Total: $431.45 - Tax: $20.55
+Invoice ID: 795-49-7276 - Total: $156.03 - Tax: $7.43
+Invoice ID: 686-41-0932 - Total: $72.87 - Tax: $3.47
+Invoice ID: 510-09-5628 - Total: $206.43 - Tax: $9.83
+Invoice ID: 437-53-3084 - Total: $209.77 - Tax: $9.99
+Invoice ID: 573-98-8548 - Total: $33.50 - Tax: $1.60
+Invoice ID: 595-27-4851 - Total: $398.96 - Tax: $19.00
+Invoice ID: 413-20-6708 - Total: $54.04 - Tax: $2.57
+Invoice ID: 286-62-6248 - Total: $164.68 - Tax: $7.84
+Invoice ID: 339-38-9982 - Total: $125.71 - Tax: $5.99
+Invoice ID: 435-13-4908 - Total: $728.11 - Tax: $34.67
+Invoice ID: 339-12-4827 - Total: $77.66 - Tax: $3.70
+Invoice ID: 308-81-0538 - Total: $306.81 - Tax: $14.61
+Invoice ID: 647-50-1224 - Total: $308.91 - Tax: $14.71
+Invoice ID: 747-58-7183 - Total: $180.40 - Tax: $8.59
+Invoice ID: 582-52-8065 - Total: $513.23 - Tax: $24.44
+Invoice ID: 198-66-9832 - Total: $151.28 - Tax: $7.20
+Invoice ID: 514-37-2845 - Total: $208.43 - Tax: $9.93
+Invoice ID: 651-88-7328 - Total: $621.24 - Tax: $29.58
+Invoice ID: 241-11-2261 - Total: $586.97 - Tax: $27.95
+Invoice ID: 339-96-8318 - Total: $597.63 - Tax: $28.46
+Invoice ID: 339-18-7061 - Total: $195.26 - Tax: $9.30
+Invoice ID: 359-90-3665 - Total: $75.94 - Tax: $3.62
+Invoice ID: 379-17-6588 - Total: $625.91 - Tax: $29.81
+Invoice ID: 258-69-7810 - Total: $193.46 - Tax: $9.21
+Invoice ID: 881-41-7302 - Total: $68.24 - Tax: $3.25
+Invoice ID: 484-22-8230 - Total: $381.39 - Tax: $18.16
+Invoice ID: 559-98-9873 - Total: $394.33 - Tax: $18.78
+Invoice ID: 318-12-0304 - Total: $32.14 - Tax: $1.53
+Invoice ID: 789-23-8625 - Total: $293.64 - Tax: $13.98
+Invoice ID: 641-96-3695 - Total: $273.80 - Tax: $13.04
+Invoice ID: 852-62-7105 - Total: $874.13 - Tax: $41.63
+Invoice ID: 598-06-7312 - Total: $95.92 - Tax: $4.57
+Invoice ID: 308-39-1707 - Total: $12.69 - Tax: $0.60
+Invoice ID: 665-63-9737 - Total: $165.12 - Tax: $7.86
+Invoice ID: 574-31-8277 - Total: $35.31 - Tax: $1.68
+Invoice ID: 133-77-3154 - Total: $252.76 - Tax: $12.04
+Invoice ID: 562-12-5430 - Total: $277.67 - Tax: $13.22
+Invoice ID: 491-38-3499 - Total: $58.22 - Tax: $2.77
+Invoice ID: 725-67-2480 - Total: $370.13 - Tax: $17.63
+Invoice ID: 518-17-2983 - Total: $204.25 - Tax: $9.73
+Invoice ID: 588-47-8641 - Total: $588.42 - Tax: $28.02
+Invoice ID: 242-11-3142 - Total: $175.92 - Tax: $8.38
+Invoice ID: 370-96-0655 - Total: $310.72 - Tax: $14.80
+Invoice ID: 105-10-6182 - Total: $45.11 - Tax: $2.15
+Invoice ID: 196-01-2849 - Total: $539.34 - Tax: $25.68
+Invoice ID: 626-43-7888 - Total: $507.44 - Tax: $24.16
+Invoice ID: 191-29-0321 - Total: $207.59 - Tax: $9.89
+Invoice ID: 760-27-5490 - Total: $131.21 - Tax: $6.25
+Invoice ID: 735-32-9839 - Total: $829.08 - Tax: $39.48
+Invoice ID: 857-16-3520 - Total: $525.23 - Tax: $25.01
+Invoice ID: 788-21-5741 - Total: $142.95 - Tax: $6.81
+Invoice ID: 821-14-9046 - Total: $110.12 - Tax: $5.24
+Invoice ID: 418-05-0656 - Total: $187.87 - Tax: $8.95
+Invoice ID: 210-74-9613 - Total: $408.49 - Tax: $19.45
+Invoice ID: 247-11-2470 - Total: $93.74 - Tax: $4.46
+Invoice ID: 756-49-0168 - Total: $20.69 - Tax: $0.99
+Invoice ID: 457-13-1708 - Total: $684.92 - Tax: $32.62
+Invoice ID: 210-30-7976 - Total: $93.74 - Tax: $4.46
+Invoice ID: 288-38-3758 - Total: $267.34 - Tax: $12.73
+Invoice ID: 652-43-6591 - Total: $817.24 - Tax: $38.92
+Invoice ID: 410-67-1709 - Total: $536.59 - Tax: $25.55
+Invoice ID: 801-88-0346 - Total: $239.59 - Tax: $11.41
+Invoice ID: 307-04-2070 - Total: $32.15 - Tax: $1.53
+Invoice ID: 651-96-5970 - Total: $48.73 - Tax: $2.32
+Invoice ID: 605-83-1050 - Total: $57.08 - Tax: $2.72
+Invoice ID: 474-33-8305 - Total: $495.32 - Tax: $23.59
+Invoice ID: 759-29-9521 - Total: $462.67 - Tax: $22.03
+Invoice ID: 189-55-2313 - Total: $652.89 - Tax: $31.09
+Invoice ID: 477-59-2456 - Total: $333.98 - Tax: $15.90
+Invoice ID: 760-53-9233 - Total: $130.03 - Tax: $6.19
+Invoice ID: 807-34-3742 - Total: $55.00 - Tax: $2.62
+Invoice ID: 288-62-1085 - Total: $202.34 - Tax: $9.64
+Invoice ID: 497-36-0989 - Total: $163.61 - Tax: $7.79
+Invoice ID: 896-34-0956 - Total: $22.39 - Tax: $1.07
+Invoice ID: 125-45-2293 - Total: $624.33 - Tax: $29.73
+Invoice ID: 843-73-4724 - Total: $77.81 - Tax: $3.71
+Invoice ID: 409-33-9708 - Total: $206.81 - Tax: $9.85
+Invoice ID: 895-03-6665 - Total: $345.02 - Tax: $16.43
+Invoice ID: 584-66-4073 - Total: $59.33 - Tax: $2.83
+Invoice ID: 885-56-0389 - Total: $54.97 - Tax: $2.62
+Invoice ID: 115-38-7388 - Total: $85.51 - Tax: $4.07
+Invoice ID: 137-74-8729 - Total: $102.40 - Tax: $4.88
+Invoice ID: 607-76-6216 - Total: $485.57 - Tax: $23.12
+Invoice ID: 781-84-8059 - Total: $446.44 - Tax: $21.26
+Invoice ID: 522-57-8364 - Total: $431.26 - Tax: $20.54
+Invoice ID: 749-81-8133 - Total: $397.61 - Tax: $18.93
+Invoice ID: 756-93-1854 - Total: $175.04 - Tax: $8.34
+Invoice ID: 702-83-5291 - Total: $943.30 - Tax: $44.92
+Invoice ID: 676-10-2200 - Total: $56.47 - Tax: $2.69
+Invoice ID: 846-10-0341 - Total: $312.89 - Tax: $14.90
+Invoice ID: 256-58-3609 - Total: $96.58 - Tax: $4.60
+Invoice ID: 593-08-5916 - Total: $16.28 - Tax: $0.78
+Invoice ID: 744-82-9138 - Total: $180.87 - Tax: $8.61
+Invoice ID: 883-69-1285 - Total: $104.83 - Tax: $4.99
+Invoice ID: 374-38-5555 - Total: $334.48 - Tax: $15.93
+Invoice ID: 690-01-6631 - Total: $183.65 - Tax: $8.75
+Invoice ID: 849-09-3807 - Total: $649.30 - Tax: $30.92

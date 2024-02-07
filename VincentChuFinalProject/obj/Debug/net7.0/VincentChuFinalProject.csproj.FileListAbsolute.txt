@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\bin\Debug\net7.0\VincentChuFinalProject.exe
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\bin\Debug\net7.0\VincentChuFinalProject.deps.json
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\bin\Debug\net7.0\VincentChuFinalProject.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\bin\Debug\net7.0\VincentChuFinalProject.dll
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\bin\Debug\net7.0\VincentChuFinalProject.pdb
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\obj\Debug\net7.0\VincentChuFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\obj\Debug\net7.0\VincentChuFinalProject.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\obj\Debug\net7.0\VincentChuFinalProject.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\obj\Debug\net7.0\VincentChuFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\obj\Debug\net7.0\VincentChuFinalProject.dll
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\obj\Debug\net7.0\refint\VincentChuFinalProject.dll
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\obj\Debug\net7.0\VincentChuFinalProject.pdb
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\obj\Debug\net7.0\VincentChuFinalProject.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\VincentChuFinalProject\obj\Debug\net7.0\ref\VincentChuFinalProject.dll
