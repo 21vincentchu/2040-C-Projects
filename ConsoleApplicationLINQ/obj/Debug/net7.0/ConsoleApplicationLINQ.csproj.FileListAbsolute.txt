@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\bin\Debug\net7.0\ConsoleApplicationLINQ.exe
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\bin\Debug\net7.0\ConsoleApplicationLINQ.deps.json
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\bin\Debug\net7.0\ConsoleApplicationLINQ.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\bin\Debug\net7.0\ConsoleApplicationLINQ.dll
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\bin\Debug\net7.0\ConsoleApplicationLINQ.pdb
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\obj\Debug\net7.0\ConsoleApplicationLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\obj\Debug\net7.0\ConsoleApplicationLINQ.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\obj\Debug\net7.0\ConsoleApplicationLINQ.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\obj\Debug\net7.0\ConsoleApplicationLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\obj\Debug\net7.0\ConsoleApplicationLINQ.dll
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\obj\Debug\net7.0\refint\ConsoleApplicationLINQ.dll
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\obj\Debug\net7.0\ConsoleApplicationLINQ.pdb
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\obj\Debug\net7.0\ConsoleApplicationLINQ.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\ConsoleApplicationLINQ\obj\Debug\net7.0\ref\ConsoleApplicationLINQ.dll

@@ -1,0 +1,14 @@
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\bin\Debug\net7.0\LinqDemo.exe
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\bin\Debug\net7.0\LinqDemo.deps.json
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\bin\Debug\net7.0\LinqDemo.runtimeconfig.json
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\bin\Debug\net7.0\LinqDemo.dll
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\bin\Debug\net7.0\LinqDemo.pdb
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\obj\Debug\net7.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\obj\Debug\net7.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\obj\Debug\net7.0\LinqDemo.AssemblyInfo.cs
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\obj\Debug\net7.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\obj\Debug\net7.0\LinqDemo.dll
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\obj\Debug\net7.0\refint\LinqDemo.dll
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\obj\Debug\net7.0\LinqDemo.pdb
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\obj\Debug\net7.0\LinqDemo.genruntimeconfig.cache
+C:\Users\Vincent chu\VIsual Studio\LinqDemo\obj\Debug\net7.0\ref\LinqDemo.dll
